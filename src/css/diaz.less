@@ -1,0 +1,85 @@
+@keyframes appear {
+  from { opacity: 0 }
+  to { opacity: 1 }
+}
+
+@keyframes disappear {
+  from { opacity: 1 }
+  to { opacity: 0 }
+}
+
+@keyframes flash {
+  0% { opacity: 0 }
+  40% { opacity: 1 }
+  60% { opacity: 1 }
+  100% { opacity: 0 }
+}
+
+header.blue.wash.splash {
+  position: relative;
+
+  .backdrop {
+    display: block;
+  }
+
+  .screen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: fade(#314780, 70%);
+    animation-name: appear;
+    animation-duration: 2s;
+    animation-delay: 3s;
+    animation-fill-mode: both;
+    will-change: opacity;
+  }
+
+  .logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animation-name: disappear;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-fill-mode: both;
+    will-change: opacity;
+  }
+
+  .headline-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    animation-name: appear;
+    animation-duration: 2s;
+    animation-delay: 5s;
+    animation-fill-mode: both;
+    will-change: opacity;
+    text-align: center;
+    .display-flex();
+    .flex-direction(column);
+    .align-items(center);
+    .justify-content(center);
+    text-shadow: 0 0 8px fade(black, 60%);
+
+    h1 {
+      color: #c04d5c;
+      text-transform: uppercase;
+      font-size: 60px;
+      margin: 0;
+    }
+
+    h2 {
+      font-style: italic;
+      color: white;
+      margin: 0;
+      width: 50%;
+    }
+  }
+
+}

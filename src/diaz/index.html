@@ -6,9 +6,32 @@
   </head>
   <body>
 
-    <responsive-child>
-      <!-- content goes here -->
-    </responsive-child>
+    <%= t.include("partials/_nav.html") %>
+
+    <header class="blue wash splash">
+      <img class="backdrop" src="../assets/diaz-banner-color.jpg">
+      <div class="screen"></div>
+      <img src="../assets/diaz-banner-logo.png" class="logo">
+      <div class="headline-container">
+        <h1>The heat is on</h1>
+        <h2>
+          Meet Mariners closer Edwin Diaz and his blazing 100 mph fastball
+        </h2>
+      </div>
+    </header>
+
+    <main class="article-content">
+      <%= t.include("_inlineNav.html", { page: "diaz" }) %>
+
+      Content goes here.
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <%= t.include("partials/_navBottom.html") %>
 
     <script src="../app.js" async></script>
     <% if (json.project.production) { %>

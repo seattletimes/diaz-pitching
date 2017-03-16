@@ -3,3 +3,6 @@
 // var track = require("./lib/tracking");
 
 require("component-responsive-frame/child");
+
+// kick off page load effects
+document.body.classList.add("loaded");
