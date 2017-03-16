@@ -6,17 +6,23 @@
   </head>
   <body>
 
-    <header>
+    <%= t.include("partials/_nav.html") %>
+
+    <header class="splash">
 
     </header>
 
     <main class="article-content">
+      <%= t.include("_inlineNav.html") %>
+
       <%= markdown.trends %>
     </main>
 
     <footer>
 
     </footer>
+
+    <%= t.include("partials/_navBottom.html") %>
 
     <script src="../app.js" async></script>
     <% if (json.project.production) { %>
