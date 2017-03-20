@@ -4,11 +4,13 @@ It was the 13th-fastest out of 24 100-mph-plus pitches Diaz would throw from his
 
 Yet those two dozen hundred-plus heaters comprised only a sliver of the total across baseball. 
 
-Thanks largely to the Yankees’ Aroldis Chapman,  MLB pitchers combined to throw 1,379 pitches that clocked triple digits in 2016, the most prolific year of flamethrowers the game has seen. That’s a 53.7 percent increase over 2015 and nearly 1,000 more than 2010, the year a 22-year-old Chapman debuted in the Reds’ bullpen.
+Thanks largely to the Yankees’ Aroldis Chapman,  MLB pitchers combined to throw 1,379 pitches that clocked triple digits in 2016, the most prolific year of flamethrowers the game has seen. (Chapman, who accounted for 538 of those pitches, was suspended 30 games last season because of his involvement in an alleged domestic violence incident during the previous offseason.)
+
+The 1,379 pitches was a 53.7 percent increase over 2015 and nearly 1,000 more than 2010, the year a 22-year-old Chapman debuted in the Reds’ bullpen.
 
 What in 2008 was a group of eight led by Joel Zumaya had swelled to 34 pitchers to hit 100 mph in 2015 and 31 in 2016 — including four Mariners, more than any other team.
 
-“Part of the excitement is keeping one eye on the scoreboard,” said Jonathan Hock, the director of the documentary “Fastball.” “When guys like Diaz step up, what are you gonna see? You remember that more than anything that happened in the game. It used to be that the home run was the slam dunk of baseball. Now it’s the 100-mph fastball. When you see triple digits on the scoreboard, it is really exciting. If can hear it in the crowd, you can feel the electricity.”
+“It seems like everyone out of the pen these days is throwing in the high 90s. The game’s definitely evolving,” Mariners infielder Danny Valencia said. “Guys are getting bigger, faster, stronger. I think the games obviously changing and with nutrition, exercise and modern medicine, it seems like guys are becoming way more athletic and are able to do more impressive stuff. It’s definitely more challenging as a hitter to hit those guys.”
 
 It took all of 13 Class AAA starts in 2010 of Chapman showcasing his record-breaking fastball but little else for the Reds to cut the string and allow his two-pitch repertoire to begin dominating out of the big league bullpen. Six years later, Diaz entered the eighth inning of  Class AA Jackson’s game and the next day general manager Jerry Dipoto announced the Mariners were doing the same.
 
@@ -20,4 +22,8 @@ When the Reds converted Chapman, then-GM Walt Jocketty’s intentions were for i
 
 Despite the Reds returning each of the next two spring trainings to the infatuation of starting pitcher Aroldis Chapman, he inked a five-year, $86 million contract with the Yankees this offseason having never started a major league game. It was the largest contract ever given to a reliever, followed only by Kenley Jansen and Mark Melancon’s deals, all completed in the first two weeks of December 2016. 
 
-Teams are spending more than they ever have on their bullpens, up 18.8 percent and nearly $100 million league-wide from 2016. Just to complete their bullpen, the Mariners handed 31-year-old middle reliever Marc Rzepczynski $5.5 million. But with no big-money closer, Seattle dedicates barely 10 percent of its payroll to the bullpen — higher than only six other teams in baseball, and with its star closer making the league minimum.
+Teams are spending more than they ever have on their bullpens, up 18.8 percent and nearly $100 million league-wide from 2016. Just to complete their bullpen, the Mariners handed 31-year-old middle reliever Marc Rzepczynski $5.5 million — a tick above the average annual salary given to a free-agent reliever this offseason, $5.3 million.
+
+In his lone MLB season, current Mariners pitching coach Mel Stottlemyre Jr. earned $100,000 to appear in 13 games and post a 4.88 ERA for the 1990 Kansas City Royals. Elsewhere in the AL West, Bobby Thigpen set a then-record with 57 saves for the White Sox. Dennis Eckersley finished second, with 48 saves, and gave up five earned runs all season — a 0.61 ERA. Neither ever earned more than $7 million in today’s money, less than the $7.5 million the Phillies gave 39-year-old Joaquin Benoit after he threw 48 innings between the M’s and Blue Jays last season.
+
+“Things have changed,” Stottlemyre said. “You look at the evolution of starters vs. bullpens and how the game has shifted. Very few times will you see a starter going deep in games now and you turn it over to guys in the back end of the bullpen who can all throw 95-100. Those guys are getting paid.”
