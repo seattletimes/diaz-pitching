@@ -2,18 +2,18 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": ""
+      "path": "fresh-orb"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": ""
     }
   },
-  "title": "",
+  "title": "Mariners 2017 Preview",
   "description": "",
-  "url": "",
+  "url": "http://projects.seattletimes.com/2017/mariners-preview/",
   "image": "assets/social.jpg",
   "sheets": [],
   "production": false,
-  "embedded": true
+  "embedded": false
 }

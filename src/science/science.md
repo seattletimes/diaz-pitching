@@ -14,9 +14,13 @@ These duels are a microcosm of baseball’s intricate structure of snap decision
 
 Despite what your little league coach might have taught you, the exchange isn’t quite as simple as “see ball, hit ball.” Not when it comes to 100-mph heaters.
 
+<?<%= t.include("science/_scrolling.html", { stage: "overview" }) %>?>
+
 A 100-mph fastball takes roughly 375-400 milliseconds to reach the plate. For reference, the blink of an eye takes 300-400 milliseconds. 
 
 So now that we’ve established a 100-mph fastball gets to the plate in roughly the amount of time it takes for you to shut your eyelid and reopen it, let’s break down what a hitter has to do in order to put the barrel of a  wooden bat on that 100-mph fastball.
+
+<?<%= t.include("science/_scrolling.html", { stage: "processing" }) %>?>
 
 First, the hitter must process the ball coming at them. The brain quickly races to identify the thrown object, but this process takes about 75-100 milliseconds, according to neuroscientist Jordan Muraskin.
 
@@ -26,7 +30,11 @@ After this processing lag time in which the hitter recognizes an object moving t
 
 While most decisions are made in the front part of the brain, which deals with deliberative thought, this decision is made in the motor area of the brain, which deals with more instinctive reactions. This is when the hitter decides the most crucial step: to swing or not swing. 
 
+<?<%= t.include("science/_scrolling.html", { stage: "swing" }) %>?>
+
 Once the hitter decides, it’s a race against the waning milliseconds to make contact. The quickest swings in baseball happen in anywhere from 100-150 milliseconds, leaving almost zero margin for error. 
+
+<?<%= t.include("science/_scrolling.html", { stage: "decision" }) %>?>
 
 “You really only have about 150 milliseconds to make a decision while the pitch is coming toward you,” Muraskin said. “A fair and foul ball, the difference is having your bat in the right place by about 5-7 milliseconds.”
 

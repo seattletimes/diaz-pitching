@@ -1,0 +1,117 @@
+.pitch-timing.container {
+  font-family: @df-sans;
+  font-size: 15px;
+  width: 800px;
+  max-width: 100%;
+  margin: auto;
+  padding: 0 0 32px 0;
+
+  .sub-bars {
+    .display-flex();
+    .justify-content(space-between);
+  }
+
+  .bar-container {
+    .bar {
+      height: 30px;
+    }
+
+    &.processing {
+      .flex(0 0 percentage(100 / 375));
+    }
+
+    &.swing {
+      .flex(0 0 percentage(150 / 375));
+    }
+  }
+
+  .bar-label {
+    display: none;
+    position: relative;
+    list-style-type: none;
+    padding: 4px;
+    margin: 0;
+    font-weight: bold;
+  }
+
+  .short-label {
+    display: none;
+    color: @df-middle-gray;
+    font-style: italic;
+  }
+
+  .bar-activation(@outer, @inner, @direction: left) {
+    .@{inner} {
+      .short-label {
+        text-align: @direction;
+      }
+    }
+
+    &.@{outer} .@{inner} {
+      .bar {
+      transform: scaleX(0);
+      transform-origin: top @direction;
+      transition: all .8s ease-in-out;
+      }
+
+      .bar-label {
+        display: block;
+        text-align: @direction;
+      }
+    }
+
+    &.@{outer}.active .@{inner} {
+      .bar {
+        transform: scaleX(1);
+      }
+    }
+  }
+
+  .bar-activation(overview, total, center);
+
+  .total {
+    .bar {
+      height: 10px;
+      padding: 8px 0;
+      .display-flex();
+      .align-items(flex-start);
+      border-left: 1px solid black;
+      border-right: 1px solid black;
+      border-top: 1px solid black;
+    }
+
+    .bar-label, .short-label {
+      text-align: center;
+    }
+  }
+
+
+  &.processing, &.swing, &.decision {
+    .processing {
+      .bar { background: @st-light-orange }
+      .short-label { display: block }
+    }
+  }
+
+  .bar-activation(processing, processing);
+
+  &.swing, &.decision {
+    .swing {
+      .bar { background: @st-light-blue }
+      .short-label { display: block }
+    }
+  }
+
+  .bar-activation(swing, swing, right);
+
+  &.decision {
+    .decision { .flex(1 1 0%) }
+    .decision .bar {
+      background: @df-light-gray;
+      background-image: repeating-linear-gradient(45deg, white, white 10px, @df-light-gray 10px, @df-light-gray 20px, white 20px);
+    }
+  }
+
+  .bar-activation(decision, decision, center);
+
+}
