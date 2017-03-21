@@ -1,0 +1,33 @@
+.video-container {
+  width: 100%;
+  position: relative;
+
+  &::before {
+    content: "";
+    display: block;
+    padding-bottom: percentage(9/16);
+  }
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.mlb-container {
+  float: right;
+  padding: 20px;
+  display: block;
+
+  @media @mobile {
+  float: none;
+  max-width: 100%;
+  width: 100%;
+  margin: 20px auto;
+  padding: 0;
+  }
+
+}
