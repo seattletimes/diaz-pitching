@@ -6,7 +6,7 @@ var containers = $(".pitch-timing.container");
 var onScroll = function() {
   containers.forEach(function(c) {
     var bounds = c.getBoundingClientRect();
-    if (bounds.top > 0 && bounds.bottom < window.innerHeight * .7) {
+    if (bounds.top > 0 && bounds.bottom < window.innerHeight) {
       c.classList.add("active");
     }
   })
