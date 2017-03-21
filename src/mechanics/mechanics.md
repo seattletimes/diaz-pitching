@@ -22,6 +22,8 @@ With no hesitation, he went to the fastball again. Diaz knew Naquin would be pre
 
 The fastball that he knew was coming wasn’t going to be hit. He swung, missed and walked to the dugout, looking at the stadium radar gun, which read 100 mph. It drew oohs from the few fans there. Many stood and cheered for Diaz’s first big league strikeout as he stalked around the mound. 
 
+<iframe src='http://m.mlb.com/shared/video/embed/embed.html?content_id=783846883&topic_id=32862096&width=400&height=224&property=mlb' width='400' height='224' frameborder='0'>Your browser does not support iframes.</iframe>
+
 Every pitcher remembers his first strikeout and the details of it. But it’s not often that fans remember it, too. 
 
 The inning wasn’t over. Facing Rajai Davis, Diaz flipped a nasty slider for a swinging strike one and then came back a 100 mph fastball on the outside corner to make it 0-2. Fans in the stands rose to their feet cheering in anticipation. Diaz unleashed another fastball. This time it was 101 mph. Davis got a piece of it and fouled it back off the mask of catcher Chris Iannetta. The sheer force and angle knocked Iannetta’s mask off his face. 
