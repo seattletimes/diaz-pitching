@@ -6,6 +6,8 @@ Some of the crowd of 15,824 cheered for the youngster making his debut out of co
 
 Diaz had been called up two days earlier and manager Scott Servais waited for the right time to bring him in for a “soft landing” in his debut. With the Mariners trailing 3-1 and getting shut down by Cleveland starter Trevor Bauer, Diaz entered the game in the bottom of the seventh in relief of James Paxton to not led the lead grow. 
 
+<? <%= t.include("_inlineNav.html") %> ?>
+
 With nervous energy pumping through his body and baseball-sized butterflies in his stomach, he rocked back and delivered his first big league pitch — a riding fastball at 96 mph for a strike to Chris Gimenez. He got a swinging strike two on a nasty slider. His third pitch was a 99 mph fastball for a ball. Another slider got a ground ball to third base for an easy first out. 
 
 It was then you could see Diaz exhale as he circled the mound. That first out made things easier. Now he could go. Now he could relax. And what came next was special. 

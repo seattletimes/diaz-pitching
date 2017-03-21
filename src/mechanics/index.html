@@ -4,16 +4,34 @@
     <%= t.include("partials/_head.html") %>
     <link rel="stylesheet" type="text/css" href="../style.css">
   </head>
-  <body>
 
-    <responsive-child>
-      <!-- content goes here -->
-    </responsive-child>
+  <header class="placeholder splash">
+      <img src="http://placehold.it/900x300">
+    </header>
+
+    <div class="byline">
+      By NAME
+    <div class="staff">
+      Seattle Times POSITION
+    </div>
+    <div class="date">
+      Published March XX, 2017
+    </div>
+    </div>
+
+    <main class="article-content">
+      <%= markdown.mechanics %>
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <%= t.include("partials/_navBottom.html") %>
 
     <script src="../app.js" async></script>
     <% if (json.project.production) { %>
     <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
     <%= t.include("partials/_workHere.html") %>
     <% } %>
-  </body>
 </html>
