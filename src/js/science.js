@@ -4,11 +4,14 @@ var debounce = require("./lib/debounce");
 var containers = $(".pitch-timing.container");
 
 var onScroll = function() {
-  containers.forEach(function(c) {
+  console.log(containers);
+  containers = containers.filter(function(c) {
     var bounds = c.getBoundingClientRect();
     if (bounds.top > 0 && bounds.bottom < window.innerHeight) {
       c.classList.add("active");
+      return false;
     }
+    return true;
   })
 }
 

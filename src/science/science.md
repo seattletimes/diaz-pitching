@@ -4,7 +4,9 @@ Consider baseball’s most basic interaction – the one that takes place 60 fee
 
 The pitcher versus the hitter. 
 
-It’s a mental chess match. The pitcher gazes in for the sign, scratches at the clay with his foot, searching for the right plan of attack with his grip on the ball. The hitter meets the pitcher’s eyes, a wooden weapon waiting rhythmically on his shoulder. 
+It’s a mental chess match. The pitcher gazes in for the sign, scratches at the clay with his foot, searching for the right plan of attack with his grip on the ball. The hitter meets the pitcher’s eyes, a wooden weapon waiting rhythmically on his shoulder.
+
+<?<%= t.include("_inlineNav.html", { page: "science" }) %>?>
 
 “There’s something primal about this confrontation between a man with a rock and a man with a stick,” said Jonathan Hock, writer and director of the documentary “Fastball.” 
 
