@@ -4,15 +4,18 @@
     <%= t.include("partials/_head.html") %>
     <link rel="stylesheet" type="text/css" href="../style.css">
   </head>
+  <body>
+
+  <%= t.include("partials/_nav.html") %>
 
   <header class="placeholder splash">
       <img src="http://placehold.it/900x300">
     </header>
 
     <div class="byline">
-      By NAME
+      By Ryan Divish
     <div class="staff">
-      Seattle Times POSITION
+      Seattle Times staff reporter
     </div>
     <div class="date">
       Published March XX, 2017
@@ -34,4 +37,5 @@
     <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
     <%= t.include("partials/_workHere.html") %>
     <% } %>
+  </body>
 </html>
