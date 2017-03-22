@@ -1,49 +1,55 @@
 <div class="pitch-timing container <%= typeof stage == "undefined" ? "" : stage %>">
-  <div class="pitcher">
+  <div class="row">
 
-  </div>
-  
-  <div class="total bar-container">
-    <div class="bar-label">
-      Time to plate at 100mph: 375ms
-    </div>
-    <div class="short-label">Total: 375ms</div>
-    <div class="bar"></div>
-    <div class="bar-label"> Distance (release point to plate): 55 feet</div>
-    <button class="reset">&#8635;</button>
-    <div class="ball"></div>
-  </div>
-
-  <div class="sub-bars">
-    
-    <div class="processing bar-container">
-      <div class="bar"></div>
-      <div class="bar-label">
-        Visual processing: 75-100ms of cognitive lag
-      </div>
-      <div class="short-label">Processing: 100ms</div>
+    <div class="pitcher">
+      <img src="http://placehold.it/100x160">
     </div>
     
-    <div class="decision bar-container">
-      <div class="bar"></div>
-      <div class="bar-label">
-        Time for decision: ~150ms
+    <div class="cell">
+      <div class="total bar-container">
+        <div class="bar-label">
+          Time to plate at 100mph: 375ms
+        </div>
+        <div class="short-label">Total: 375ms</div>
+        <div class="bar"></div>
+        <div class="bar-label"> Distance (release point to plate): 55 feet</div>
+        <div class="ball"></div>
+      </div>
+
+      <div class="sub-bars">
+        
+        <div class="processing bar-container">
+          <div class="bar"></div>
+          <div class="bar-label">
+            Visual processing: 75-100ms of cognitive lag
+          </div>
+          <div class="short-label">Processing: 100ms</div>
+        </div>
+        
+        <div class="decision bar-container">
+          <div class="bar"></div>
+          <div class="bar-label">
+            Time for decision: ~150ms
+          </div>
+        </div>
+        
+        <div class="swing bar-container">
+          <div class="bar"></div>
+          <div class="bar-label">
+            Time for swing: 150ms
+          </div>
+          <div class="short-label">
+            Swing: 150ms
+          </div>
+        </div>
+
       </div>
     </div>
-    
-    <div class="swing bar-container">
-      <div class="bar"></div>
-      <div class="bar-label">
-        Time for swing: 150ms
-      </div>
-      <div class="short-label">
-        Swing: 150ms
-      </div>
+
+    <div class="batter">
+      <img src="http://placehold.it/100x160">
     </div>
-
   </div>
 
-  <div class="batter">
-
-  </div>
+  <button class="reset">&#8635; replay</button>
 </div>

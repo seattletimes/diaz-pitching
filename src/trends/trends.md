@@ -4,6 +4,8 @@ It was the 13th-fastest out of 24 100-mph-plus pitches Diaz would throw from his
 
 Yet those two dozen hundred-plus heaters comprised only a sliver of the total across baseball. 
 
+<?<%= t.include("_inlineNav.html", { page: "trends" }) %>?>
+
 Thanks largely to the Yankees’ Aroldis Chapman,  MLB pitchers combined to throw 1,379 pitches that clocked triple digits in 2016, the most prolific year of flamethrowers the game has seen. (Chapman, who accounted for 538 of those pitches, was suspended 30 games last season because of his involvement in an alleged domestic violence incident during the previous offseason.)
 
 The 1,379 pitches was a 53.7 percent increase over 2015 and nearly 1,000 more than 2010, the year a 22-year-old Chapman debuted in the Reds’ bullpen.

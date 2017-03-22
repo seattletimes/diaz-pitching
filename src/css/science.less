@@ -80,6 +80,7 @@ header.pitch.impact.splash {
       font-size: 48px;
       margin: 0;
       text-transform: uppercase;
+      font-family: @df-sans;
     }
 
     h2 {
@@ -104,6 +105,32 @@ header.pitch.impact.splash {
   @ball-size: 12px;
   @stitch-size: 3px;
   @stitch-width: 1px;
+
+  .reset {
+    float: right;
+    background: white;
+    border: 1px solid @df-light-gray;
+    color: @df-middle-gray;
+    padding: 4px 8px;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 4px;
+
+    &:hover, &:focus {
+      background: @df-off-white;
+      border: 1px solid @df-middle-gray;
+    }
+  }
+
+  .row {
+    .display-flex();
+    .align-items(center);
+
+    .cell {
+      .flex(1 1 0%);
+      padding: 0 4px;
+    }
+  }
 
   .sub-bars {
     .display-flex();

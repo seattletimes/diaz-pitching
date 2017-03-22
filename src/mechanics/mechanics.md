@@ -15,7 +15,7 @@ Diaz had been called up two days earlier and manager Scott Servais waited for th
 
 With nervous energy pumping through his body and baseball-sized butterflies in his stomach, he rocked back and delivered his first big league pitch — a riding fastball at 96 mph for a strike to Chris Gimenez. He got a swinging strike two on a nasty slider. His third pitch was a 99 mph fastball for a ball. Another slider got a ground ball to third base for an easy first out. 
 
-<? <%= t.include("_inlineNav.html") %> ?>
+<? <%= t.include("_inlineNav.html", { page: "mechanics" }) %> ?>
 
 It was then you could see Diaz exhale as he circled the mound. That first out made things easier. Now he could go. Now he could relax. And what came next was special. 
 
