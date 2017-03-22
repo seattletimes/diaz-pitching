@@ -9,10 +9,10 @@
 
 @keyframes ball-zoom {
   from {
-    transform: translateX(0) translateY(0) translateZ(0) rotate(-9000deg) scale(.1);
+    transform: translateX(0) translateY(0) translateZ(0) rotate(-6000deg) scale(.1);
   }
   to {
-    transform: translateX(-50%) translateY(400%) translateZ(0) rotate(0) scale(16);
+    transform: translateX(-100%) translateY(400%) translateZ(0) rotate(0) scale(17);
   }
 }
 
@@ -32,7 +32,7 @@ header.pitch.impact.splash {
   img.view {
     animation-name: photo-toss;
     animation-duration: 1s;
-    animation-timing-function: ease-in-out;
+    animation-timing-function: cubic;
     animation-fill-mode: both;
     transform-origin: center center;
     box-shadow: 0 16px 4px 0 fade(black, 10%);
@@ -50,10 +50,10 @@ header.pitch.impact.splash {
     border-radius: 100%;
     background: white;
     animation-name: ball-zoom, appear;
-    animation-duration: .5s, 0s;
-    animation-fill-mode: both;
-    animation-timing-function: cubic-bezier(1,.04,.9,.01);
-    animation-delay: 1s;
+    animation-duration: .4s, .1s;
+    animation-fill-mode: both, both;
+    animation-timing-function: cubic-bezier(1,.02,.96,.01);
+    animation-delay: 1s, 1s;
     // box-shadow: inset -16px -16px 16px 32px fade(black, 10%);
     background-image: radial-gradient(circle 160px,
       white, white 100px,
@@ -102,6 +102,8 @@ header.pitch.impact.splash {
   padding: 0 0 32px 0;
 
   @ball-size: 12px;
+  @stitch-size: 3px;
+  @stitch-width: 1px;
 
   .sub-bars {
     .display-flex();
@@ -123,13 +125,21 @@ header.pitch.impact.splash {
 
     //fastball styles
     .ball {
-      background-color: @st-light-red;
+      background: white;
+      background-image: radial-gradient(circle (@ball-size * 2),
+        white, white @stitch-size,
+        red @stitch-size, red (@stitch-size + @stitch-width),
+        white (@stitch-size + @stitch-width), white (@stitch-size * 2));
+      background-position-x: -(@ball-size / 2);
+      background-repeat: repeat-x;
+      background-size: @ball-size;
       border-radius: 100%;
       position: absolute;
       top: 10%;
       height: @ball-size;
       width: @ball-size;
-      transition: all  375ms linear 1s;
+      border: 1px solid @df-light-gray;
+      transform: rotate(0);
 
       left: -10px;
       right: auto;
@@ -138,7 +148,9 @@ header.pitch.impact.splash {
   }
 
   &.active .ball {
-    left: calc(~"100% - @{ball-size}")
+    left: calc(~"100% - @{ball-size}");
+    transform: rotate(720deg);
+    transition: all 375ms linear 1s;
   }
 
   .bar-label {
@@ -165,9 +177,8 @@ header.pitch.impact.splash {
 
     &.@{outer} .@{inner} {
       .bar {
-      transform: scaleX(0);
-      transform-origin: top @direction;
-      transition: all .8s ease-in-out;
+        transform: scaleX(0);
+        transform-origin: top @direction;
       }
 
       .bar-label {
@@ -182,6 +193,7 @@ header.pitch.impact.splash {
 
     &.@{outer}.active .@{inner} {
       .bar {
+        transition: all .8s ease-in-out;
         transform: scaleX(1);
       }
     }
