@@ -1,0 +1,83 @@
+.main-nav {
+
+  .wrapper {
+    .display-flex();
+    .align-items(center);
+  }
+
+  .activate {
+    border: 1px solid black;
+    padding: 4px 16px;
+    font-family: @df-sans;
+    text-transform: uppercase;
+    margin-left: 20px;
+    background: white;
+    color: @df-dark-gray;
+    cursor: pointer;
+  }
+
+  .dropdown {
+    position: absolute;
+    top: 100%;
+    left: 140px;
+    margin: 0;
+    padding: 0;
+    z-index: 999;
+    background: white;
+    box-shadow: 4px 8px 8px fade(black, 10%);
+    list-style-type: none;
+    font-family: @df-sans;
+    font-size: 15px;
+    display: none;
+
+    @media @mobile {
+      left: 16px;
+      right: 16px;
+    }
+
+    li {
+      padding: 4px 16px 4px 4px;
+      border-bottom: 1px solid @df-light-gray;
+
+      @media @mobile {
+        padding: 8px 16px;
+      }
+
+      a, a:visited {
+        color: @df-blue;
+        display: block;
+
+        &::before {
+          content: "";
+          display: inline-block;
+          width: 16px;
+        }
+      }
+
+      &:hover {
+        background: @df-off-white;
+      }
+
+      &.here a {
+        color: black;
+
+        &::before {
+          content: "▸";
+        }
+      }
+    }
+  }
+
+  &.open {
+
+    .activate {
+      background: @df-light-gray;
+    }
+
+    .dropdown {
+      display: block;
+    }
+
+  }
+
+}
