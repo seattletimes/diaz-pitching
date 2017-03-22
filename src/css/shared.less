@@ -1,6 +1,12 @@
 header.splash {
+  max-width: 1200px;
+  margin: auto;
+  
+  img {
+    width: 100%;
+  }
 
-  & .placeholder {
+  .placeholder {
     &::before {
       content: "";
       display: block;
@@ -36,15 +42,6 @@ header.splash {
   }
 }
 
-header.splash {
-  max-width: 1200px;
-  margin: auto;
-  
-  img {
-    width: 100%;
-  }
-}
-
 main.article-content {
   margin: auto;
   max-width: 800px;
@@ -63,44 +60,33 @@ main.article-content {
   }
 }
 
-aside.inline-nav {
-  float: right;
-  width: 240px;
-  padding: 16px;
-  font-family: @df-sans;
-  font-size: 14px;
-
-  ul {
-    // list-style-type: none;
-    display: block;
-    // padding: 0;
-    margin: 0;
-  }
-}
-
 footer {
   clear: both;
 }
 
-main .inline-nav {
+.inline-nav {
   float: right;
   max-width: 240px;
   margin: 0 16px 32px;
+  font-family: @df-sans;
+
   @media @mobile {
     float: none;
     max-width: 100%;
     width: 100%;
     margin: 20px auto;
-    padding: 10px 20px;
+    padding: 20px 10px;
     border-color: @df-light-gray;
     border-style: solid;
     border-width: 1px 0;
+    text-align: center;
   }
 
   ul {
     padding-left: 0px;
     font-size: 16px;
     list-style-type: none;
+    margin: 0;
 
     li {
       padding-top: 5px;
@@ -111,8 +97,9 @@ main .inline-nav {
 
       @media @mobile {
         display: inline-block;
-        margin-right: 20px;
         border-bottom: none;
+        margin-right: 16px;
+        text-decoration: underline;
       }
 
       a {
@@ -121,7 +108,6 @@ main .inline-nav {
 
         &:hover {
           color: @df-blue;
-          font-weight: bold;
         }
       }
     }
@@ -135,22 +121,24 @@ main .inline-nav {
 }
 
 // inline photo styles
-.photo .credit {
-    text-align: right;
-    font-family: @df-sans;
-    font-size: 13px;
-    margin-left: 20px;
-    font-style: italic;
-    text-transform: uppercase;
-    color: @df-dark-gray;
-}
+.photo {
+  .credit {
+      text-align: right;
+      font-family: @df-sans;
+      font-size: 13px;
+      margin-left: 20px;
+      font-style: italic;
+      text-transform: uppercase;
+      color: @df-dark-gray;
+  }
 
-.photo .caption {
-  display: block;
-  padding: 0;
-  margin: 0;
-  font-family: @df-sans;
-  font-size: 16px;
+  .caption {
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-family: @df-sans;
+    font-size: 16px;
+  }
 }
 
 .side-img{

@@ -4,7 +4,6 @@ var debounce = require("./lib/debounce");
 var containers = $(".pitch-timing.container");
 
 var onScroll = function() {
-  console.log(containers);
   containers = containers.filter(function(c) {
     var bounds = c.getBoundingClientRect();
     if (bounds.top > 0 && bounds.bottom < window.innerHeight) {
