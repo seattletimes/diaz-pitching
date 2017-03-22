@@ -48,6 +48,13 @@ Like a shutter speed in a camera, the hitter’s brain tracks the pitch by takin
 
 “The ball is essentially outracing your eye,” said Hock, who worked with neuroscientists and MLB hitters for his film. “Your eye doesn’t track an object in motion with 100 percent constancy.”
 
+<div class="photo side-img">
+  <img src="../assets/page3-inline.jpg">
+  <div class="credit">Ken Lambert / The Seattle Times</div>
+  <p class="caption">
+    Mariners closer Edwin Diaz looks skyward after saving the game against the Yankees, Monday, Aug. 22, 2016, at Safeco Field in Seattle.</p>
+</div>
+
 “With a fastball, when it approaches 100 mph, it hits a speed that is right at the limit of the fastest a human eye can track in a moment,” he continued. “When the ball is outracing your eye, you think it’s going to a place where an ordinary pitch will go, and then it’s not there when you hit it; your brain has an error message.”
 
 Say a 100-mph fastball takes 375 milliseconds after the pitcher releases the ball to reach the plate. After lopping off the first 75-100 milliseconds in “processing lag time,” and 100-150 milliseconds needed to swing, the hitter is left with almost no time to decide what kind of pitch it is, where it’s going, and whether or not they will attempt a swing. The chess match becomes a guessing game. 
