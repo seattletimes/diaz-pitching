@@ -13,12 +13,9 @@
 
   <ul>
     <% pages.forEach(function(p) { %>
+      <% if (p.url == current) return; %>
     <li>
-      <% if (p.url == current) { %>
-        <%= p.title %>
-      <% } else { %>
         <a href="../<%= p.url %>/"><%= p.title %></a>
-      <% } %>
     <% }) %>
   </ul>
 
