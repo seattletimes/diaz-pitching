@@ -16,10 +16,18 @@
     cursor: pointer;
   }
 
+  .menu-block {
+    position: relative;
+
+    @media @mobile {
+      position: static;
+    }
+  }
+
   .dropdown {
     position: absolute;
     top: 100%;
-    left: 140px;
+    left: 16px;
     margin: 0;
     padding: 0;
     z-index: 999;
@@ -29,10 +37,11 @@
     font-family: @df-sans;
     font-size: 15px;
     display: none;
+    min-width: 180px;
 
     @media @mobile {
-      left: 16px;
       right: 16px;
+      width: auto;
     }
 
     li {

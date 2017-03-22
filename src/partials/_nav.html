@@ -6,27 +6,31 @@
       <img src="../assets/seattletimes.svg">
     </a>
 
-    <button class="activate">Menu</button>
+    <div class="menu-block">
+
+      <button class="activate">Menu</button>
+
+      <%
+        var pages = [
+          { url: "diaz", title: "Diaz profile" },
+          { url: "mechanics", title: "The mechanics" },
+          { url: "science", title: "The science" },
+          { url: "trends", title: "Trendspotting" },
+          { url: "closers", title: "Coffee's for closers" }
+        ];
+        var current = typeof page == "string" ? page : "";
+      %>
+      <ul class="dropdown">
+        <% pages.forEach(function(p) { %>
+        <li class="<%= p.url == current ? "here" : "elsewhere" %>">
+            <a href="../<%= p.url %>/"><%= p.title %></a>
+        <% }) %>
+      </ul>
+
+    </div>
 
     <a class="share top" aria-label="Share"></a>
 
   </div>
-
-  <%
-    var pages = [
-      { url: "diaz", title: "Diaz profile" },
-      { url: "mechanics", title: "The mechanics" },
-      { url: "science", title: "The science" },
-      { url: "trends", title: "Trendspotting" },
-      { url: "closers", title: "Coffee's for closers" }
-    ];
-    var current = typeof page == "string" ? page : "";
-  %>
-  <ul class="dropdown">
-    <% pages.forEach(function(p) { %>
-    <li class="<%= p.url == current ? "here" : "elsewhere" %>">
-        <a href="../<%= p.url %>/"><%= p.title %></a>
-    <% }) %>
-  </ul>
 
 </nav>
