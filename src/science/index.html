@@ -4,7 +4,7 @@
     <%= t.include("partials/_head.html") %>
     <link rel="stylesheet" type="text/css" href="../style.css">
   </head>
-  <body>
+  <body class="science page">
 
     <%= t.include("partials/_nav.html") %>
 
@@ -31,9 +31,7 @@
       <%= markdown.science %>
     </main>
 
-    <footer>
-
-    </footer>
+    <%= t.include("_credits.html") %>
 
     <%= t.include("partials/_navBottom.html") %>
 
