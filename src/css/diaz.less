@@ -25,8 +25,22 @@
   100% { opacity: 0 }
 }
 
+@keyframes drift {
+  from {
+    transform: translateY(20px);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
 header.blue.wash.splash {
   position: relative;
+
+  .image-container {
+    position:relative;
+  }
 
   .backdrop {
     display: block;
@@ -44,6 +58,11 @@ header.blue.wash.splash {
     animation-delay: 3s;
     animation-fill-mode: both;
     will-change: opacity;
+
+    @media @mobile {
+      animation-name: disappear;
+      animation-delay: 0;
+    }
   }
 
   .logo {
@@ -61,8 +80,17 @@ header.blue.wash.splash {
     .justify-content(center);
     .align-items(center);
 
+    @media @mobile {
+      animation-name: disappear;
+      animation-duration: 3s;
+    }
+
     img {
       width: 50%;
+
+      @media @mobile {
+        width: 70%;
+      }
     }
   }
 
@@ -74,7 +102,7 @@ header.blue.wash.splash {
     height: 100%;
     animation-name: appear;
     animation-duration: 2s;
-    animation-delay: 5s;
+    animation-delay: 3s;
     animation-fill-mode: both;
     will-change: opacity;
     text-align: center;
@@ -84,11 +112,25 @@ header.blue.wash.splash {
     .justify-content(center);
     text-shadow: 0 0 8px fade(black, 60%);
 
+    @media @mobile {
+      position: static;
+      display: block;
+      text-shadow: none;
+      padding: 10px 20px;
+      animation-name: appear, drift;
+      animation-delay: .4s;
+    }
+
     h1 {
       color: #c04d5c;
       text-transform: uppercase;
       font-size: 60px;
       margin: 0;
+
+      @media @mobile {
+        font-size: 36px;
+        color: darken(#c04d5c, 20%);
+      }
     }
 
     h2 {
@@ -96,6 +138,12 @@ header.blue.wash.splash {
       color: white;
       margin: 0;
       width: 50%;
+
+      @media @mobile {
+        color: black;
+        width: 100%;
+        font-size: 28px;
+      }
     }
   }
 
