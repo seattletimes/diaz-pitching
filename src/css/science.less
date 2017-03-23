@@ -118,8 +118,8 @@ header.pitch.impact.splash {
     height: 100%;
     opacity: 0;
     animation:
-      blink .3s linear 1.4s none,
-      appear 1s linear 2s forwards;
+      blink .2s ease-in-out 1.4s none,
+      appear .5s linear 2.5s forwards;
     transform: translateZ(0);
   }
 }
@@ -135,6 +135,14 @@ header.pitch.impact.splash {
   @ball-size: 12px;
   @stitch-size: 3px;
   @stitch-width: 1px;
+
+  .pitcher, .batter {
+    width: 100px;
+
+    @media @mobile {
+      width: 20%;
+    }
+  }
 
   .reset {
     float: right;
@@ -155,6 +163,10 @@ header.pitch.impact.splash {
   .row {
     .display-flex();
     .align-items(center);
+
+    @media @mobile {
+      .align-items(flex-start);
+    }
 
     .cell {
       position: relative;
@@ -214,9 +226,11 @@ header.pitch.impact.splash {
 
   &.active .ball {
     opacity: 1;
-    left: calc(~"100% + @{ball-size}");
+    @past: @ball-size * 4;
+    @delay: .7s;
+    left: calc(~"100% + @{past}");
     transform: rotate(720deg);
-    transition: opacity 16ms linear 1s, left 375ms linear 1s;
+    transition: opacity 16ms linear @delay, left 400ms ease-in @delay;
   }
 
   .bar-label {
@@ -226,6 +240,12 @@ header.pitch.impact.splash {
     padding: 4px;
     margin: 0;
     font-weight: bold;
+
+    @media @mobile {
+      font-weight: normal;
+      font-size: 13px;
+      padding: 0;
+    }
   }
 
   .short-label {
@@ -289,7 +309,10 @@ header.pitch.impact.splash {
   &.processing, &.swing, &.decision {
     .processing {
       .bar { background: @st-light-orange }
-      .short-label { display: block }
+      .short-label {
+        display: block;
+        @media @mobile { display: none }
+      }
     }
   }
 
@@ -298,7 +321,10 @@ header.pitch.impact.splash {
   &.swing, &.decision {
     .swing {
       .bar { background: @st-light-blue }
-      .short-label { display: block }
+      .short-label {
+        display: block;
+        @media @mobile { display: none }
+      }
     }
   }
 
