@@ -6,14 +6,29 @@ var players = json.over_100.sort(function(a, b) {
 
 var max = Math.max.apply(null, players.map(p => p[2016] || 0));
 
+
 %>
 <div class="visualization vertical graph">
+  <h1>Power pitchers are more common, but still rare</h1>
+  <p>
+    Although pitches faster than 100mph have become more common, most of them are still from a select few players. Two such pitchers (Aroldis Chapman and Mauricio Cabrera) accounted for the vast majority of those pitches in 2016.
+  <ul class="key">
+    <li> <i class="all dot"></i> All pitches
+    <li> <i class="over-100 dot"></i> Pitches over 100mph
+  </ul>
   <div class="graph">
     <% players.forEach(function(p) { %>
+      <% 
+      var all = p[2016] / max * 100;
+      // for now, all pitchers will be 50% fastballs until we have the real numbers.
+      var over100 = all * .5;
+      var remaining = all - over100;
+      %>
     <div class="row">
       <div class="label cell"><%= p.player %></div>
       <div class="bars cell">
-        <div class="bar" style="width: <%= (p[2016] / max * 100).toFixed(2) %>%"></div>
+        <div class="over-100 bar" style="width: <%= over100.toFixed(2) %>%"></div>
+        <div class="under-100 bar" style="width: <%= remaining.toFixed(2) %>%"></div>
       </div>
     </div>
     <% }) %>

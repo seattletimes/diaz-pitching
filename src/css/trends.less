@@ -1,17 +1,55 @@
+@all-color: @st-dark-orange;
+@over-100-color: @st-dark-red;
+
 .visualization {
   clear: both;
   font-family: @df-sans;
   font-size: 15px;
+  border-top: 1px solid @df-light-gray;
+  border-bottom: 1px solid @df-light-gray;
+  padding: 20px 0;
+  margin: 20px 0;
+
+  .key {
+    margin: 0;
+    list-style-type: none;
+    padding: 10px 0;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      margin: 0 20px;
+    }
+
+    .dot {
+      width: 15px;
+      height: 15px;
+      border-radius: 100%;
+      background: @df-middle-gray;
+      display: inline-block;
+      vertical-align: middle;
+
+      &.all {
+        background: @all-color;
+      }
+
+      &.over-100 {
+        background: @over-100-color;
+      }
+    }
+  }
 }
 
 .vertical.graph {
 
   .row {
     .display-flex();
+    padding: 2px 0;
   }
 
   .cell {
     .flex(0 0 50%);
+    overflow: hidden;
 
     &.label {
       .flex(0 0 25%);
@@ -24,7 +62,12 @@
 
   .bar {
     height: 20px;
-    background: papayawhip;
+    background: @st-dark-orange;
+    float: left;
+
+    &.over-100 {
+      background: @st-dark-red;
+    }
   }
 
 }
