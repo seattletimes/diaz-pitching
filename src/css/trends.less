@@ -1,0 +1,30 @@
+.visualization {
+  clear: both;
+  font-family: @df-sans;
+  font-size: 15px;
+}
+
+.vertical.graph {
+
+  .row {
+    .display-flex();
+  }
+
+  .cell {
+    .flex(0 0 50%);
+
+    &.label {
+      .flex(0 0 25%);
+    }
+
+    &.bars {
+      .flex(0 0 75%);
+    }
+  }
+
+  .bar {
+    height: 20px;
+    background: papayawhip;
+  }
+
+}

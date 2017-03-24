@@ -1,0 +1,21 @@
+<%
+
+var players = json.over_100.sort(function(a, b) {
+  return (b[2016] || 0) - (a[2016] || 0);
+}).slice(0, 10);
+
+var max = Math.max.apply(null, players.map(p => p[2016] || 0));
+
+%>
+<div class="visualization vertical graph">
+  <div class="graph">
+    <% players.forEach(function(p) { %>
+    <div class="row">
+      <div class="label cell"><%= p.player %></div>
+      <div class="bars cell">
+        <div class="bar" style="width: <%= (p[2016] / max * 100).toFixed(2) %>%"></div>
+      </div>
+    </div>
+    <% }) %>
+  </div>
+</div>
