@@ -52,31 +52,17 @@ header.pitch.impact.splash {
 
   .ball {
     @size: 1200px;
-    @stitches: darken(red, 20%);
-    @ball-color: #FFE;
     position: absolute;
     margin: -(@size / 2);
     width: @size;
-    height: @size;
-    top: 30%;
-    left: 45%;
-    border-radius: 100%;
-    background: @ball-color;
+    top: 45%;
+    left: 55%;
     opacity: 1;
     will-change: opacity, transform;
     animation:
       ball-zoom .4s cubic-bezier(1,.02,.96,.01) 1s both,
       appear .1s linear 1s backwards,
       disappear .1s linear 1.4s forwards;
-    @bg-size: @size / 2;
-    @stitch-start: @bg-size * .6;
-    @stitch-end: @stitch-start + (@bg-size * .1);
-    background-image: radial-gradient(circle @bg-size,
-      @ball-color, @ball-color @stitch-start,
-      @stitches @stitch-start, @stitches @stitch-end,
-      @ball-color @stitch-end, @ball-color @bg-size
-    );
-    background-position: -@bg-size;
   }
 
   .headline-container {
@@ -207,7 +193,7 @@ header.pitch.impact.splash {
       white, white @stitch-size,
       red @stitch-size, red (@stitch-size + @stitch-width),
       white (@stitch-size + @stitch-width), white (@stitch-size * 2));
-    background-position-x: -(@ball-size / 2);
+    background-position: -(@ball-size / 2);
     background-repeat: repeat-x;
     background-size: @ball-size;
     border-radius: 100%;
