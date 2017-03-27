@@ -26,6 +26,8 @@ So now that we’ve established a 100-mph fastball gets to the plate in roughly 
 
 First, the hitter must process the ball coming at them. The brain quickly races to identify the thrown object, but this process takes about 75-100 milliseconds, according to neuroscientist Jordan Muraskin.
 
+Muraskin teamed up with fellow neuroscientist Jason Sherwin to form deCervo, a company that uses baseball to examine the brain’s cognitive ability in short decision-making windows of time. The two work with college and MLB teams to measure and improve hitters’ reaction times, especially when it comes to the fastest of fastballs.
+
 “You are limited by your nervous system in that you have 75-100 milliseconds of processing lag time,”  Muraskin said.
 
 After this processing lag time in which the hitter recognizes an object moving toward him, he must identify and react to the pitch. What kind of pitch is it, and where is it going? 
@@ -42,7 +44,11 @@ Once the hitter decides, it’s a race against the waning milliseconds to make c
 
 When the pitch speed dials up to triple digits, hitters can have great difficulty even tracking the direction of the ball.
 
-(PLAYER QUOTE)
+“The good hitters are able to slow the ball down,” said new Mariners first baseman Danny Valencia. “You have to essentially slow down the pitch so it doesn’t look as hard.”
+
+Easier said than done. Valencia, who last season faced M’s flamethrower Edwin Diaz, went 0 for 2 with a strikeout and a groundout.
+
+“He’s got electric stuff,” Valencia recalled of Diaz. “The numbers don’t lie, and he’s got a lot of strikeouts. You’ve got to go up there and be aggressive. It’s definitely a tough at bat. You’ve got to simplify everything with a guy like that.”
 
 Like a shutter speed in a camera, the hitter’s brain tracks the pitch by taking rapid snapshots of the ball and its trajectory. But the speed of the pitch creates holes that can’t be processed quick enough.
 
