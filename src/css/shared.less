@@ -124,18 +124,19 @@ footer {
 // inline photo styles
 .photo {
   .credit {
-      text-align: right;
-      font-family: @df-sans;
-      font-size: 13px;
-      margin-left: 20px;
-      font-style: italic;
-      text-transform: uppercase;
-      color: @df-dark-gray;
+    text-align: right;
+    font-family: @df-sans;
+    font-size: 13px;
+    margin-left: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+    color: @df-dark-gray;
+    padding: 0 16px;
   }
 
   .caption {
     display: block;
-    padding: 0;
+    padding: 0 16px;
     margin: 0;
     font-family: @df-sans;
     font-size: 16px;
@@ -148,6 +149,10 @@ footer {
   width: 300px;
   height: auto;
   padding: 20px;
+
+  .credit, .caption {
+    padding: 0;
+  }
 
   @media @mobile {
     float: none;

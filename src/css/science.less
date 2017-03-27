@@ -124,9 +124,32 @@ header.pitch.impact.splash {
 
   .pitcher, .batter {
     width: 100px;
+    position: relative;
+
+    .post {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      opacity: 0;
+    }
 
     @media @mobile {
       width: 20%;
+    }
+  }
+
+  &.active .pitcher {
+    .post {
+      animation: .3s appear .6s linear both;
+      background: white;
+    }
+  }
+
+  &.active .batter {
+    .post {
+      animation: .3s appear 1s linear both;
+      background: white;
     }
   }
 
@@ -212,7 +235,7 @@ header.pitch.impact.splash {
 
   &.active .ball {
     opacity: 1;
-    @past: @ball-size * 4;
+    @past: @ball-size * 8;
     @delay: .7s;
     left: calc(~"100% + @{past}");
     transform: rotate(720deg);

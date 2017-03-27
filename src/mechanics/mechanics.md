@@ -4,12 +4,14 @@ Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on J
 
 Some of the crowd of 15,824 cheered for the youngster making his debut out of courtesy. But only the diehard fans who follow the Mariners’ prospects understood the importance of the evening. Diaz had been the organization’s minor league starting pitcher of the year in 2015 and was converted to a reliever in the first month of the 2016 season. Though dominant, he’d made just 10 relief appearances for Class AA Jackson before being summoned to the big leagues to provide a soft-tossing Seattle bullpen with a legitimate power arm. 
 
+</main>
 <div class="photo">
   <img src="../assets/page2_diaz_first_game.jpg">
   <div class="credit">Ted S. Warren / The Associated Press</div>
   <p class="caption">
     Fans cheer for Seattle Mariners relief pitcher Edwin Diaz during a baseball game against the Cleveland Indians, Monday, June 6, 2016, in Seattle.</p>
 </div>
+<main class="article-content">
 
 Diaz had been called up two days earlier and manager Scott Servais waited for the right time to bring him in for a “soft landing” in his debut. With the Mariners trailing 3-1 and getting shut down by Cleveland starter Trevor Bauer, Diaz entered the game in the bottom of the seventh in relief of James Paxton to not led the lead grow. 
 
