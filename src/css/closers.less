@@ -1,0 +1,86 @@
+.carousel {
+  position: relative;
+  border-top: 1px solid @df-light-gray;
+  border-bottom: 1px solid @df-light-gray;
+  padding: 20px 0;
+  margin: 20px 0;
+  font-size: 16px;
+  font-family: @df-sans;
+
+  .scroll-container-container {
+    position: relative;
+
+    &::before, &::after {
+      position: absolute;
+      display: block;
+      content: "";
+      top: 0;
+      width: 40px;
+      height: 100%;
+      opacity: 0;
+      transition: opacity .2s linear;
+      z-index: 999;
+      pointer-events: none;
+    }
+
+    &.scrollable-right::after {
+      opacity: 1;
+      right: 0;
+      background-image: linear-gradient(to right, transparent, fade(white, 50%));
+    }
+
+    &.scrollable-left::before {
+      left: 0;
+      opacity: 1;
+      background-image: linear-gradient(to left, transparent, fade(white, 50%));
+    }
+  }
+
+  .scroll-container {
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+
+  .scroll-block {
+    .display-flex();
+    .flex-wrap(none);
+  }
+
+  .player-container {
+    .flex(0 0 350px);
+    transform-origin: center;
+    transition: transform .2s ease-in-out;
+
+    img {
+      width: 100%;
+      display: block;
+    }
+
+    &.active {
+      transform: scale(1.1);
+    }
+  }
+
+  .description {
+    padding: 20px;
+    background: @df-off-white;
+
+    h1 {
+      font-size: 20px;
+    }
+
+    h2 {
+      font-size: 16px;
+    }
+
+    h1, h2 {
+      margin: 0;
+    }
+
+    &.empty {
+      padding: 40px;
+      text-align: center;
+    }
+  }
+
+}

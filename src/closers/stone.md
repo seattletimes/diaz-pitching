@@ -10,9 +10,11 @@ As the Mariners tried to get serious, the guy at the end of the game was Mike Sc
 
 <? <%= t.include("_inlineNav.html", { page: "closers" }) %> ?>
 
-In 1991, when the Mariners finally had their first winning record after 15 years of trying, Schooler was hurt and had just seven saves. And when Lou Piniella took over in 1993 and things got serious, Schooler was released in spring training. His departing quote has become the stuff of legend: “All he cares about,’’ Schooler said incredulously of Piniella, “is winning.” 
+In 1991, when the Mariners finally had their first winning record after 15 years of trying, Schooler was hurt and had just seven saves. And when Lou Piniella took over in 1993 and things got serious, Schooler was released in spring training. His departing quote has become the stuff of legend: “All he cares about,’’ Schooler said incredulously of Piniella, “is winning.”
 
 True dat. And too often, it seemed to be the bullpen that kept Piniella and the Mariners from doing it. I need only type the name “Bobby Ayala” to initiate a collective cringe among readers. Contrary to popular belief at the time, he was neither related to, nor possessed incriminating pictures of, Piniella; instead, Ayala had stuff that was explosive enough to tease you into salivating over what he could be if he ever harnessed it; and he harnessed it just enough to keep getting the ball, with often dire results.
+
+<?<%= t.include("closers/_carousel.html") %>?>
 
 The nadir was 1998 – a year in which the Mariners had Ken Griffey Jr., Edgar Martinez, Alex Rodriguez and Randy Johnson (until his July 31 trade to Houston) all healthy and in their prime yet finished under .500. Ayala was 1-10 with a 7.29 earned-run average, eight saves and nine blown saves. 
 

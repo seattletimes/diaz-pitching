@@ -9,3 +9,4 @@ document.body.classList.add("loaded");
 
 require("./science");
 require("./menu");
+require("./carousel");

@@ -1,0 +1,21 @@
+<div class="carousel">
+
+  <div class="scroll-container-container yes its dumb">
+    <div class="scroll-container">
+      <div class="scroll-block">
+      <% json.stone_comments.forEach(function(s, i) { %>
+        <div class="player-container"
+          data-name="<%= s.closer %>"
+          data-comment="<%= s.comment %>"
+          data-term="<%= s.year %>">
+          <img src="http://placehold.it/300x450" class="player-image" data-index="<%= i %>">
+        </div>
+      <% }) %>
+      </div>
+    </div>
+  </div>
+  <div class="empty description">
+    Click a player for more details.
+  </div>
+
+</div>
