@@ -8,6 +8,8 @@ You could make a case that the evolution of the Mariners can be best told, at le
 
 As the Mariners tried to get serious, the guy at the end of the game was Mike Schooler. Talk about stuff – his was nasty, and he saved 33 games in 1989, and 30 in 1990, healthy totals for that era and practically unheard of for the Mariners. Oh, but the breakdowns – the six walk-off losses in 1988, still a franchise record; the four grand slams allowed in 1992, still tied for an American League record.
 
+<? <%= t.include("_inlineNav.html", { page: "closers" }) %> ?>
+
 In 1991, when the Mariners finally had their first winning record after 15 years of trying, Schooler was hurt and had just seven saves. And when Lou Piniella took over in 1993 and things got serious, Schooler was released in spring training. His departing quote has become the stuff of legend: “All he cares about,’’ Schooler said incredulously of Piniella, “is winning.” 
 
 True dat. And too often, it seemed to be the bullpen that kept Piniella and the Mariners from doing it. I need only type the name “Bobby Ayala” to initiate a collective cringe among readers. Contrary to popular belief at the time, he was neither related to, nor possessed incriminating pictures of, Piniella; instead, Ayala had stuff that was explosive enough to tease you into salivating over what he could be if he ever harnessed it; and he harnessed it just enough to keep getting the ball, with often dire results.
@@ -23,6 +25,8 @@ Norm Charlton, who helped restore order to a muddled bullpen in the magical seas
 “When you blow a game, it eats at you and bugs you,’’ he said. “You feel like you let down 24 other guys. Griffey and Edgar and Jay and Blowers and Tino and all the rest went out and did their job, and you went out and screwed it up.”
 In 2000, the Mariners finally got themselves a closer who rated low on the angst meter in Japanese import Kazahiro Sasaki.
 “He was the one guy who was consistent from the day he got here until the day he left,’’ Charlton said.
+
+<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
 
 Not coincidentally, the Mariners were a wild-card playoff team in Sasaki’s first season, and won a record 116 games his second year, with Seattle getting as far as the American League Championship Series both years. In each of Sasaki’s final two seasons in Seattle before returning to Japan, the Mariners won 93 games, marking the most successful four-year stretch in franchise history. 
 
