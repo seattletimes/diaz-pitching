@@ -20,6 +20,8 @@ It took all of 13 Class AAA starts in 2010 of Chapman showcasing his record-brea
 
 “We felt like as a starter he’s mostly 90-94 mph with a good slider,” Dipoto said at the time. “What happens when we dump him into a bullpen? Do we have a chance to get that back-end dynamic arm? And does that supersede the ceiling that he would have as a starter?”
 
+<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
+
 Diaz’s early success was quantifiable, no matter your bent. His stat line included an average of nearly two punchouts an inning (15.33 K/9), a 2.79 ERA and an even lower FIP, 2.04. It took him only 51⅔ innings to accumulate 1.9 fWAR. Perhaps more impressive was his ability to blow his tailing four-seamer past batters and intermix a sweeping slider.
 
 When the Reds converted Chapman, then-GM Walt Jocketty’s intentions were for it only to be temporary. Dipoto has shown no indication of considering moving Diaz, his slender frame and fastball-slider combo back into the rotation.

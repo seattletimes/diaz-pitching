@@ -22,11 +22,11 @@ Slocumb, meanwhile, would save just 13 games for the Mariners – though to be f
 
 Norm Charlton, who helped restore order to a muddled bullpen in the magical season of 1995, and then was part of the struggle in 1997, knows more than most the vicissitudes of life at the back end of the bullpen.
 
+<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
+
 “When you blow a game, it eats at you and bugs you,’’ he said. “You feel like you let down 24 other guys. Griffey and Edgar and Jay and Blowers and Tino and all the rest went out and did their job, and you went out and screwed it up.”
 In 2000, the Mariners finally got themselves a closer who rated low on the angst meter in Japanese import Kazahiro Sasaki.
 “He was the one guy who was consistent from the day he got here until the day he left,’’ Charlton said.
-
-<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
 
 Not coincidentally, the Mariners were a wild-card playoff team in Sasaki’s first season, and won a record 116 games his second year, with Seattle getting as far as the American League Championship Series both years. In each of Sasaki’s final two seasons in Seattle before returning to Japan, the Mariners won 93 games, marking the most successful four-year stretch in franchise history. 
 
@@ -37,6 +37,8 @@ Then came the roller-coaster years, otherwise known, too often, as the hide-your
 “You have to come to the ballpark, win or lose the night before, with your chest sticking out like nothing happened, for the other 24 guys to still have confidence in you and believe in you.”
 
 Which brings us full circle to Diaz, whom the Mariners envision, in his first full season, as the bullpen anchor of the team to end their playoff drought. General manager Jerry Dipoto loved Diaz’s eye-popping stuff last year, naturally. He loved even more how Diaz reacted to one of his first blown saves, when he was the first one in the handshake line after the eventual victory, high-fiving teammates after they survived the game-tying home run he gave up to Toronto’s Jose Bautista. 
+
+<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
 
 “If you think the ninth inning is just like the rest of innings, you’re crazy, and you’ve never been out there,’’ said Dipoto, who has 49 saves to his own name. “When you’re standing on the mound in the ninth inning, you’ve got two outs, and you can physically feel the ground under you rumbling because the crowd is stomping their feet or cheering that loudly, it can really get you.
 
