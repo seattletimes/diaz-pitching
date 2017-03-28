@@ -55,7 +55,12 @@
   .player-container {
     .flex(0 0 350px);
     transform-origin: center;
-    transition: transform .2s ease-in-out;
+    transition: transform .2s ease-in-out, opacity .2s linear;
+    opacity: .8;
+
+    @media @mobile {
+      .flex(0 0 175px);
+    }
 
     img {
       width: 100%;
@@ -64,6 +69,7 @@
 
     &.active {
       transform: scale(1.1);
+      opacity: 1;
     }
   }
 

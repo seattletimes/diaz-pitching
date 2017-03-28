@@ -7,11 +7,12 @@ var output = $.one(".carousel .description")
 var clickPlayer = function() {
   players.forEach(p => p.classList.remove("active"));
   this.classList.add("active");
+  var rank = this.getAttribute("data-rank");
   var name = this.getAttribute("data-name");
   var years = this.getAttribute("data-term");
   var comment = this.getAttribute("data-comment");
   output.innerHTML = `
-<h1>${name}</h1>
+<h1>${rank}. ${name}</h1>
 <h2>${years}</h2>
 <p>
   ${comment}

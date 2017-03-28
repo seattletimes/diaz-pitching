@@ -1,10 +1,16 @@
 <div class="carousel">
 
+  <h1>Closing ranks</h1>
+
+  <p>
+    The history of Mariners closers is uneven, at best. Here's our power ranking of the team's late-game relievers. Click on a player for commentary.
+
   <div class="scroll-container-container yes its dumb">
     <div class="scroll-container">
       <div class="scroll-block">
       <% json.stone_comments.forEach(function(s, i) { %>
         <div class="player-container"
+          data-rank="<%= s.rank %>"
           data-name="<%= s.closer %>"
           data-comment="<%= s.comment %>"
           data-term="<%= s.year %>">
