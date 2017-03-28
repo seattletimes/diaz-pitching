@@ -1,0 +1,188 @@
+[
+  {
+    "player": "Aroldis Chapman",
+    "over_100": 538,
+    "percentage": 55.35,
+    "total": 972
+  },
+  {
+    "player": "Mauricio Cabrera",
+    "over_100": 344,
+    "percentage": 53.42,
+    "total": 644
+  },
+  {
+    "player": "Noah Syndergaard",
+    "over_100": 94,
+    "percentage": 3.21,
+    "total": 2928
+  },
+  {
+    "player": "Arquimendes Caminero",
+    "over_100": 68,
+    "percentage": 6.17,
+    "total": 1102
+  },
+  {
+    "player": "Brian Ellington",
+    "over_100": 43,
+    "percentage": 7.61,
+    "total": 565
+  },
+  {
+    "player": "Dellin Betances",
+    "over_100": 40,
+    "percentage": 3.2,
+    "total": 1250
+  },
+  {
+    "player": "Carlos Estevez",
+    "over_100": 40,
+    "percentage": 3.9,
+    "total": 1026
+  },
+  {
+    "player": "Nathan Eovaldi",
+    "over_100": 36,
+    "percentage": 1.74,
+    "total": 2069
+  },
+  {
+    "player": "Joe Kelly",
+    "over_100": 25,
+    "percentage": 3.38,
+    "total": 740
+  },
+  {
+    "player": "Edwin Diaz",
+    "over_100": 24,
+    "percentage": 2.89,
+    "total": 830
+  },
+  {
+    "player": "Arodys Vizcaino",
+    "over_100": 22,
+    "percentage": 3.06,
+    "total": 719
+  },
+  {
+    "player": "Bruce Rondon",
+    "over_100": 20,
+    "percentage": 3.54,
+    "total": 565
+  },
+  {
+    "player": "Ken Giles",
+    "over_100": 20,
+    "percentage": 1.79,
+    "total": 1117
+  },
+  {
+    "player": "Carlos Martinez",
+    "over_100": 19,
+    "percentage": 0.63,
+    "total": 3016
+  },
+  {
+    "player": "Alex Reyes",
+    "over_100": 18,
+    "percentage": 2.27,
+    "total": 793
+  },
+  {
+    "player": "Matt Bush",
+    "over_100": 14,
+    "percentage": 1.49,
+    "total": 940
+  },
+  {
+    "player": "Yordano Ventura",
+    "over_100": 13,
+    "percentage": 0.43,
+    "total": 3023
+  },
+  {
+    "player": "Hunter Strickland",
+    "over_100": 7,
+    "percentage": 0.54,
+    "total": 1296
+  },
+  {
+    "player": "Felipe Rivero",
+    "over_100": 7,
+    "percentage": 0.69,
+    "total": 1014
+  },
+  {
+    "player": "Trevor Rosenthal",
+    "over_100": 6,
+    "percentage": 0.7,
+    "total": 857
+  },
+  {
+    "player": "Craig Kimbrel",
+    "over_100": 4,
+    "percentage": 0.43,
+    "total": 930
+  },
+  {
+    "player": "Jose Fernandez",
+    "over_100": 4,
+    "percentage": 0.14,
+    "total": 2857
+  },
+  {
+    "player": "Kelvin Herrera",
+    "over_100": 2,
+    "percentage": 0.18,
+    "total": 1111
+  },
+  {
+    "player": "Mike Foltynewicz",
+    "over_100": 2,
+    "percentage": 0.09,
+    "total": 2222
+  },
+  {
+    "player": "JC Ramirez",
+    "over_100": 2,
+    "percentage": 0.16,
+    "total": 1250
+  },
+  {
+    "player": "James Paxton",
+    "over_100": 2,
+    "percentage": 0.1,
+    "total": 2000
+  },
+  {
+    "player": "Kevin Gausman",
+    "over_100": 1,
+    "percentage": 0.03,
+    "total": 3333
+  },
+  {
+    "player": "Jose Dominguez",
+    "over_100": 1,
+    "percentage": 0.17,
+    "total": 588
+  },
+  {
+    "player": "Roberto Osuna",
+    "over_100": 1,
+    "percentage": 0.09,
+    "total": 1111
+  },
+  {
+    "player": "Dan Altavilla",
+    "over_100": 1,
+    "percentage": 0.58,
+    "total": 172
+  },
+  {
+    "player": "Reynaldo Lopez",
+    "over_100": 1,
+    "percentage": 0.12,
+    "total": 833
+  }
+]

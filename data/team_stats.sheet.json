@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Atlanta Braves",
+    "pitches": 368,
+    "players": 3,
+    "bullpen_payroll": 9.82
+  },
+  {
+    "team": "New York Yankees",
+    "pitches": 330,
+    "players": 3,
+    "bullpen_payroll": 17.12
+  },
+  {
+    "team": "Chicago Cubs",
+    "pitches": 284,
+    "players": 1,
+    "bullpen_payroll": 18.37
+  },
+  {
+    "team": "New York Mets",
+    "pitches": 94,
+    "players": 1,
+    "bullpen_payroll": 16.26
+  },
+  {
+    "team": "Seattle Mariners",
+    "pitches": 52,
+    "players": 4,
+    "bullpen_payroll": 10.05
+  },
+  {
+    "team": "Pittsburgh Pirates",
+    "pitches": 49,
+    "players": 2,
+    "bullpen_payroll": 28.6
+  },
+  {
+    "team": "Miami Marlins",
+    "pitches": 47,
+    "players": 2,
+    "bullpen_payroll": 26.18
+  },
+  {
+    "team": "St. Louis Cardinals",
+    "pitches": 43,
+    "players": 3,
+    "bullpen_payroll": 23.23
+  },
+  {
+    "team": "Colorado Rockies",
+    "pitches": 40,
+    "players": 1,
+    "bullpen_payroll": 25.42
+  },
+  {
+    "team": "Boston Red Sox",
+    "pitches": 29,
+    "players": 2,
+    "bullpen_payroll": 11.36
+  },
+  {
+    "team": "Detroit Tigers",
+    "pitches": 20,
+    "players": 1,
+    "bullpen_payroll": 8.35
+  },
+  {
+    "team": "Houston Astros",
+    "pitches": 20,
+    "players": 1,
+    "bullpen_payroll": 12.1
+  },
+  {
+    "team": "Kansas City Royals",
+    "pitches": 15,
+    "players": 2,
+    "bullpen_payroll": 17.1
+  },
+  {
+    "team": "Texas Rangers",
+    "pitches": 14,
+    "players": 1,
+    "bullpen_payroll": 4.96
+  },
+  {
+    "team": "San Francisco Giants",
+    "pitches": 7,
+    "players": 1,
+    "bullpen_payroll": 19.73
+  },
+  {
+    "team": "Washington Nationals",
+    "pitches": 2,
+    "players": 2,
+    "bullpen_payroll": 8.06
+  },
+  {
+    "team": "Cincinnati Reds",
+    "pitches": 1,
+    "players": 1,
+    "bullpen_payroll": 15.88
+  },
+  {
+    "team": "Toronto Blue Jays",
+    "pitches": 1,
+    "players": 1,
+    "bullpen_payroll": 6.32
+  },
+  {
+    "team": "Baltimore Orioles",
+    "pitches": 1,
+    "players": 1,
+    "bullpen_payroll": 14.54
+  },
+  {
+    "team": "Los Angeles Angels",
+    "pitches": 1,
+    "players": 1,
+    "bullpen_payroll": 10.48
+  },
+  {
+    "team": "San Diego Padres",
+    "pitches": 1,
+    "players": 1,
+    "bullpen_payroll": 10.84
+  },
+  {
+    "team": "Oakland Athletics",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 29.95
+  },
+  {
+    "team": "Cleveland Indians",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 24.77
+  },
+  {
+    "team": "Chicago White Sox",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 19.47
+  },
+  {
+    "team": "Philadelphia Phillies",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 17.68
+  },
+  {
+    "team": "Milwaukee Brewers",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 15.83
+  },
+  {
+    "team": "Tampa Bay Rays",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 13.6
+  },
+  {
+    "team": "Minnesota Twins",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 12.87
+  },
+  {
+    "team": "Arizona Diamondbacks",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 10.24
+  },
+  {
+    "team": "Los Angeles Dodgers",
+    "pitches": 0,
+    "players": 0,
+    "bullpen_payroll": 8.63
+  }
+]

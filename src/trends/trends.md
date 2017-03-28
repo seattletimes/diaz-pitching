@@ -28,6 +28,8 @@ Despite the Reds returning each of the next two spring trainings to the infatuat
 
 Teams are spending more than they ever have on their bullpens, up 18.8 percent and nearly $100 million league-wide from 2016. Just to complete their bullpen, the Mariners handed 31-year-old middle reliever Marc Rzepczynski $5.5 million — a tick above the average annual salary given to a free-agent reliever this offseason, $5.3 million.
 
+<?<%= t.include("trends/_by_team.html") %>?>
+
 In his lone MLB season, current Mariners pitching coach Mel Stottlemyre Jr. earned $100,000 to appear in 13 games and post a 4.88 ERA for the 1990 Kansas City Royals. Elsewhere in the AL West, Bobby Thigpen set a then-record with 57 saves for the White Sox. Dennis Eckersley finished second, with 48 saves, and gave up five earned runs all season — a 0.61 ERA. Neither ever earned more than $7 million in today’s money, less than the $7.5 million the Phillies gave 39-year-old Joaquin Benoit after he threw 48 innings between the M’s and Blue Jays last season.
 
 “Things have changed,” Stottlemyre said. “You look at the evolution of starters vs. bullpens and how the game has shifted. Very few times will you see a starter going deep in games now and you turn it over to guys in the back end of the bullpen who can all throw 95-100. Those guys are getting paid.”

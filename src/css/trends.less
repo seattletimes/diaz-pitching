@@ -42,21 +42,26 @@
 
 .vertical.graph {
 
+  h1 {
+    font-size: 22px;
+  }
+
   .row {
     .display-flex();
     padding: 2px 0;
   }
 
   .cell {
-    .flex(0 0 50%);
+    .flex(1 1 0%);
     overflow: hidden;
 
     &.label {
       .flex(0 0 25%);
-    }
+      font-size: 14px;
 
-    &.bars {
-      .flex(0 0 75%);
+      @media @mobile {
+        .flex(0 0 50%);
+      }
     }
   }
 
@@ -70,4 +75,18 @@
     }
   }
 
+}
+
+.vertical.graph.teams {
+  .cell.label {
+    .flex(0 0 20%);
+
+    @media @mobile {
+      .flex(0 0 50%);
+    }
+  }
+
+  .cell.bars {
+    .flex(1 1 0%);
+  }
 }

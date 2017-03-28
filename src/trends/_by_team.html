@@ -1,0 +1,29 @@
+<div class="visualization vertical graph teams">
+
+  <h1>Few teams emphasize super-fast pitching</h1>
+
+  <p>
+    High-speed pitching is still concentrated in only a few teams in the MLB, with the Braves, the Yankees, and the Cubs making up the vast majority of pitches over 100 mph thrown in 2016. 
+
+  <%
+  var max = Math.max.apply(null, json.team_stats.map(t => t.pitches));
+  var teams = json.team_stats.filter(t => t.pitches);
+  %>
+  <div class="graph">
+    <% teams.forEach(function(row) { %>
+    <div class="row">
+      <div class="label cell team">
+        <%= row.team %>
+      </div>
+      <!-- <div class="label cell stats">
+        <%= row.players %> <%= row.players != 1 ? "pitchers" : "pitcher" %>,
+        bullpen is <%= row.bullpen_payroll %>% of payroll
+      </div> -->
+      <div class="bars cell">
+        <div class="bar" style="width: <%= (row.pitches / max * 100).toFixed(2) %>%"></div>
+      </div>
+    </div>
+    <% }) %>
+  </div>
+
+</div>

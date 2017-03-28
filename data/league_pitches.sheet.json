@@ -1,0 +1,47 @@
+[
+  {
+    "year": 2008,
+    "players": 8,
+    "pitches": 61
+  },
+  {
+    "year": 2009,
+    "players": 15,
+    "pitches": 257
+  },
+  {
+    "year": 2010,
+    "players": 18,
+    "pitches": 440
+  },
+  {
+    "year": 2011,
+    "players": 12,
+    "pitches": 296
+  },
+  {
+    "year": 2012,
+    "players": 15,
+    "pitches": 397
+  },
+  {
+    "year": 2013,
+    "players": 17,
+    "pitches": 465
+  },
+  {
+    "year": 2014,
+    "players": 16,
+    "pitches": 563
+  },
+  {
+    "year": 2015,
+    "players": 34,
+    "pitches": 897
+  },
+  {
+    "year": 2016,
+    "players": 31,
+    "pitches": 1379
+  }
+]
