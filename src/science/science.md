@@ -65,9 +65,7 @@ Like a shutter speed in a camera, the hitter’s brain tracks the pitch by takin
 
 “With a fastball, when it approaches 100 mph, it hits a speed that is right at the limit of the fastest a human eye can track in a moment,” he continued. “When the ball is outracing your eye, you think it’s going to a place where an ordinary pitch will go, and then it’s not there when you hit it; your brain has an error message.”
 
-Say a 100-mph fastball takes 375 milliseconds after the pitcher releases the ball to reach the plate. After lopping off the first 75-100 milliseconds in “processing lag time,” and 100-150 milliseconds needed to swing, the hitter is left with almost no time to decide what kind of pitch it is, where it’s going, and whether or not they will attempt a swing. The chess match becomes a guessing game. 
-
-(PLAYER QUOTE -- why hitters look so foolish vs. 100+)
+Say a 100-mph fastball takes 375 milliseconds after the pitcher releases the ball to reach the plate. After lopping off the first 75-100 milliseconds in “processing lag time,” and 100-150 milliseconds needed to swing, the hitter is left with almost no time to decide what kind of pitch it is, where it’s going, and whether or not they will attempt a swing. The chess match becomes a guessing game.
 
 “You’ve cut a very large portion of your ability to really decide,” Muraskin said. “That ability to decide how close or not close it’s going to be to the plate becomes much harder, and putting it in play becomes much harder.”
 
