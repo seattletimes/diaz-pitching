@@ -50,6 +50,13 @@ The path to that moment wasn’t direct or as mercurial as one of his hissing, t
 
 Edwin Diaz Sr. is a man slight in stature but oversized in presence and personality. His energetic mannerisms and shoulders-back gait are noticeable in his son. He played baseball as a kid, but basketball was his sport and passion. At just about 5-9, Edwin Sr. was a lightning-quick point guard, a fierce competitor and unafraid to have the ball in his hands when the game was on the line.
 
+<div class="side-img photo">
+  <img src="../assets/page1-inline.jpg">
+  <div class="credit">Ken Lambert / The Seattle Times</div>
+  <p class="caption">
+    Closing pitcher Edwin Diaz at Mariners spring training, Tuesday, Feb. 14, 2017, in Peoria, Ariz. 200715</p>
+</div>
+
 His son’s 6-3 frame and freakishly long arms come from his wife, Beatrice, who stands almost 5-10. In her youth, she excelled at volleyball, softball and track and field.
 
 Standing in front of his seat at Dodger Stadium with the crowd roaring and his son standing calm in the cacophony, Edwin Sr. knew what his son would do on the 1-2 pitch to Balentien.
