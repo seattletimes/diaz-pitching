@@ -23,16 +23,22 @@
       pointer-events: none;
     }
 
-    &.scrollable-right::after {
-      opacity: 1;
-      right: 0;
+    &::before {
+      background-image: linear-gradient(to left, transparent, fade(white, 50%));
+    }
+
+    &::after {
       background-image: linear-gradient(to right, transparent, fade(white, 50%));
     }
 
     &.scrollable-left::before {
       left: 0;
       opacity: 1;
-      background-image: linear-gradient(to left, transparent, fade(white, 50%));
+    }
+
+    &.scrollable-right::after {
+      opacity: 1;
+      right: 0;
     }
   }
 

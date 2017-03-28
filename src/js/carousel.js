@@ -42,5 +42,6 @@ if (carousel) {
   players.forEach(el => el.addEventListener("click", clickPlayer));
   var scroller = $.one(".scroll-container", carousel);
   scroller.addEventListener("scroll", scrollCarousel);
+  scrollCarousel.call(scroller);
 
 }
