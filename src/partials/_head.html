@@ -1,10 +1,15 @@
 <%
 
-var t = typeof title == "undefined" ? grunt.data.json.project.title : title;
-var i = typeof image == "undefined" ? grunt.data.json.project.url + grunt.data.json.project.image : grunt.data.json.project.url + image;
-var d = typeof description == "undefined" ? grunt.data.json.project.description : description;
-var u = typeof page == "undefined" ? grunt.data.json.project.url : grunt.data.json.project.url + page + "/";
-
+var nav = grunt.data.json.navigation;
+if (typeof page == "undefined") {
+  var p = "";
+  var meta = grunt.data.json.project;
+} else {
+  var p = page;
+  var meta = grunt.data.json.navigation[page];
+  meta.url = grunt.data.json.project.url + p + "/";
+}
+console.log(meta);
 
 %><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -16,19 +21,19 @@ var u = typeof page == "undefined" ? grunt.data.json.project.url : grunt.data.js
 
 <!-- BEGIN TWITTER SUMMARY CARD -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="<%= t %>">
+<meta name="twitter:title" content="<%= meta.title %>">
 <meta name="twitter:site" content="@seattletimes">
-<meta name="twitter:url" content="<%= u %>">
-<meta name="twitter:image" content="<%= i %>">
-<meta name="twitter:description" content="<%= d %>">
+<meta name="twitter:url" content="<%= meta.url %>">
+<meta name="twitter:image" content="<%= meta.image %>">
+<meta name="twitter:description" content="<%= meta.description %>">
 
 <!-- Social sharing meta -->
 <meta property="og:type" content="article">
-<meta property="og:title" content="<%= t %>">
+<meta property="og:title" content="<%= meta.title %>">
 <meta property="og:site_name" content="The Seattle Times">
-<meta property="og:url" content="<%= u %>">
-<meta property="og:image" content="<%= i %>">
-<meta property="og:description" content="<%= d %>">
+<meta property="og:url" content="<%= meta.url %>">
+<meta property="og:image" content="<%= meta.image %>">
+<meta property="og:description" content="<%= meta.description %>">
 <meta property="fb:app_id" content="225286600856790"/>
 
 <!-- Safari, you're the worst -->
@@ -42,7 +47,7 @@ var u = typeof page == "undefined" ? grunt.data.json.project.url : grunt.data.js
 window.googletag = {
   cmd: [],
   seatimes: {
-    tags: <%= JSON.stringify(json.project.tags || []) %>,
+    tags: <%= JSON.stringify(grunt.data.json.project.tags || []) %>,
     unit: "/81279359/seattletimes.com"
   }
 };
