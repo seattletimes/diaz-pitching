@@ -5,11 +5,11 @@
   <h3>Mariners 2017 season preview</h3>
 
   <ul>
-    <% grunt.data.json.navigation.forEach(function(p) { %>
-      <% if (p.url == current) return; %>
+    <% for (var k in grunt.data.json.navigation) { var p = grunt.data.json.navigation[k]; %>
+      <% if (k == current) continue; %>
     <li>
-        <a href="../<%= p.url %>/"><%= p.title %></a>
-    <% }) %>
+        <a href="../<%= k %>/"><%= p.title %></a>
+    <% } %>
   </ul>
 
 </aside>

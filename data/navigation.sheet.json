@@ -1,22 +1,17 @@
-[
-  {
-    "url": "diaz",
+{
+  "diaz": {
     "title": "Diaz profile"
   },
-  {
-    "url": "mechanics",
+  "mechanics": {
     "title": "The mechanics"
   },
-  {
-    "url": "science",
+  "science": {
     "title": "The science"
   },
-  {
-    "url": "trends",
+  "trends": {
     "title": "Trendspotting"
   },
-  {
-    "url": "closers",
+  "closers": {
     "title": "Coffee's for closers"
   }
-]
+}

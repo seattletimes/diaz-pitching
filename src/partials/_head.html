@@ -1,4 +1,12 @@
-<meta charset="utf-8">
+<%
+
+var t = typeof title == "undefined" ? grunt.data.json.project.title : title;
+var i = typeof image == "undefined" ? grunt.data.json.project.url + grunt.data.json.project.image : grunt.data.json.project.url + image;
+var d = typeof description == "undefined" ? grunt.data.json.project.description : description;
+var u = typeof page == "undefined" ? grunt.data.json.project.url : grunt.data.json.project.url + page + "/";
+
+
+%><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
 <title><%= grunt.data.json.project.title %></title>
@@ -8,19 +16,19 @@
 
 <!-- BEGIN TWITTER SUMMARY CARD -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="<%= grunt.data.json.project.title %>">
+<meta name="twitter:title" content="<%= t %>">
 <meta name="twitter:site" content="@seattletimes">
-<meta name="twitter:url" content="<%= grunt.data.json.project.url %>">
-<meta name="twitter:image" content="<%= grunt.data.json.project.url + grunt.data.json.project.image %>">
-<meta name="twitter:description" content="<%= grunt.data.json.project.description %>">
+<meta name="twitter:url" content="<%= u %>">
+<meta name="twitter:image" content="<%= i %>">
+<meta name="twitter:description" content="<%= d %>">
 
 <!-- Social sharing meta -->
 <meta property="og:type" content="article">
-<meta property="og:title" content="<%= grunt.data.json.project.title %>">
+<meta property="og:title" content="<%= t %>">
 <meta property="og:site_name" content="The Seattle Times">
-<meta property="og:url" content="<%= grunt.data.json.project.url %>">
-<meta property="og:image" content="<%= grunt.data.json.project.url + grunt.data.json.project.image %>">
-<meta property="og:description" content="<%= grunt.data.json.project.description %>">
+<meta property="og:url" content="<%= u %>">
+<meta property="og:image" content="<%= i %>">
+<meta property="og:description" content="<%= d %>">
 <meta property="fb:app_id" content="225286600856790"/>
 
 <!-- Safari, you're the worst -->
