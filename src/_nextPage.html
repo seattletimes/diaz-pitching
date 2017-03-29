@@ -1,0 +1,13 @@
+<div class="next-page">
+  <div class="previous block">
+    <% if (typeof previous != "undefined") { %>
+    <a href="../<%= previous %>/"><%= grunt.data.json.navigation[previous].title %></a>
+    <% } %>
+  </div>
+
+  <div class="next block">
+    <% if (typeof next != "undefined") { %>
+    <a href="../<%= next %>/"><%= grunt.data.json.navigation[next].title %></a>
+    <% } %>
+  </div>
+</div>

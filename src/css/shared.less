@@ -175,6 +175,47 @@ footer {
   font-family: @df-sans;
 }
 
+.next-page {
+  .display-flex();
+  border-width: 0;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-color: @df-light-gray;
+  border-style: solid;
+  margin: 20px auto;
+  max-width: 800px;
+
+  .block {
+    padding: 20px;
+    text-align: center;
+    .flex(0 0 50%);
+
+    &:hover {
+      background: @df-off-white;
+    }
+
+    &.previous {
+      border-right: 1px solid @df-light-gray;
+    }
+  }
+
+  a {
+    text-transform: uppercase;
+    color: @df-blue;
+    font-family: @df-sans;
+  }
+
+  .next a::after {
+    content: "»";
+    padding: 0 8px;
+  }
+
+  .previous a::before {
+    content: "«";
+    padding: 0 8px;
+  }
+}
+
 .ad[data-type="square"] {
   float: right;
   margin: 10px;

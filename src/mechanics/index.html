@@ -28,9 +28,9 @@
       <%= markdown.mechanics %>
     </main>
 
-    <footer>
+    <%= t.include("_nextPage.html", { next: "science", previous: "diaz" }) %>
 
-    </footer>
+    <%= t.include("_credits.html") %>
 
     <%= t.include("partials/_navBottom.html") %>
 

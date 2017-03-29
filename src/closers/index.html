@@ -29,9 +29,9 @@
       <%= markdown.stone %>
     </main>
 
-    <footer>
+    <%= t.include("_nextPage.html", { previous: "trends" }) %>
 
-    </footer>
+    <%= t.include("_credits.html") %>
 
     <%= t.include("partials/_navBottom.html") %>
 

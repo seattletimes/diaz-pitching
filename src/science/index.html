@@ -32,6 +32,8 @@
       <%= markdown.science %>
     </main>
 
+    <%= t.include("_nextPage.html", { next: "trends", previous: "mechanics" }) %>
+
     <%= t.include("_credits.html") %>
 
     <%= t.include("partials/_ad.html", { type: "bannerBottom" }) %>
