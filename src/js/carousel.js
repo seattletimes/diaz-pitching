@@ -10,10 +10,12 @@ var clickPlayer = function() {
   var rank = this.getAttribute("data-rank");
   var name = this.getAttribute("data-name");
   var years = this.getAttribute("data-term");
+  var saves = this.getAttribute("data-saves");
   var comment = this.getAttribute("data-comment");
   output.innerHTML = `
 <h1>${rank}. ${name}</h1>
 <h2>${years}</h2>
+<h2>${saves} saves</h2>
 <p>
   ${comment}
   `;

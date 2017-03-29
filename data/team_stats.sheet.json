@@ -3,97 +3,157 @@
     "team": "Atlanta Braves",
     "pitches": 368,
     "players": 3,
-    "bullpen_payroll": 9.82
+    "bullpen_payroll": 9.82,
+    "player 1": "Mauricio Cabrera",
+    "player 1 pitches": 344,
+    "player 2": "Arodys Vizcaino",
+    "player 2 pitches": 22,
+    "player 3": "Mike Foltynewicz",
+    "player 3 pitches": 2
   },
   {
     "team": "New York Yankees",
     "pitches": 330,
     "players": 3,
-    "bullpen_payroll": 17.12
+    "bullpen_payroll": 17.12,
+    "player 1": "Aroldis Chapman",
+    "player 1 pitches": 254,
+    "player 2": "Dellin Betances",
+    "player 2 pitches": 40,
+    "player 3": "Nathan Eovaldi",
+    "player 3 pitches": 36
   },
   {
     "team": "Chicago Cubs",
     "pitches": 284,
     "players": 1,
-    "bullpen_payroll": 18.37
+    "bullpen_payroll": 18.37,
+    "player 1": "Aroldis Chapman",
+    "player 1 pitches": 284
   },
   {
     "team": "New York Mets",
     "pitches": 94,
     "players": 1,
-    "bullpen_payroll": 16.26
+    "bullpen_payroll": 16.26,
+    "player 1": "Noah Syndergaard",
+    "player 1 pitches": 94
   },
   {
     "team": "Seattle Mariners",
     "pitches": 52,
     "players": 4,
-    "bullpen_payroll": 10.05
+    "bullpen_payroll": 10.05,
+    "player 1": "Arquimendes Caminero",
+    "player 1 pitches": 25,
+    "player 2": "Edwin Diaz",
+    "player 2 pitches": 24,
+    "player 3": "James Paxton",
+    "player 3 pitches": 2,
+    "player 4": "Dan Altavilla",
+    "player 4 pitches": 1
   },
   {
     "team": "Pittsburgh Pirates",
     "pitches": 49,
     "players": 2,
-    "bullpen_payroll": 28.6
+    "bullpen_payroll": 28.6,
+    "player 1": "Arquimendes Caminero",
+    "player 1 pitches": 43,
+    "player 2": "Felipe Rivero",
+    "player 2 pitches": 6
   },
   {
     "team": "Miami Marlins",
     "pitches": 47,
     "players": 2,
-    "bullpen_payroll": 26.18
+    "bullpen_payroll": 26.18,
+    "player 1": "Brian Ellington",
+    "player 1 pitches": 43,
+    "player 2": "Jose Fernandez",
+    "player 2 pitches": 4
   },
   {
     "team": "St. Louis Cardinals",
     "pitches": 43,
     "players": 3,
-    "bullpen_payroll": 23.23
+    "bullpen_payroll": 23.23,
+    "player 1": "Carlos Martinez",
+    "player 1 pitches": 19,
+    "player 2": "Alex Reyes",
+    "player 2 pitches": 18,
+    "player 3": "Trevor Rosenthal",
+    "player 3 pitches": 6
   },
   {
     "team": "Colorado Rockies",
     "pitches": 40,
     "players": 1,
-    "bullpen_payroll": 25.42
+    "bullpen_payroll": 25.42,
+    "player 1": "Carlos Estevez",
+    "player 1 pitches": 40
   },
   {
     "team": "Boston Red Sox",
     "pitches": 29,
     "players": 2,
-    "bullpen_payroll": 11.36
+    "bullpen_payroll": 11.36,
+    "player 1": "Joe Kelly",
+    "player 1 pitches": 25,
+    "player 2": "Craig Kimbrel",
+    "player 2 pitches": 4
   },
   {
     "team": "Detroit Tigers",
     "pitches": 20,
     "players": 1,
-    "bullpen_payroll": 8.35
+    "bullpen_payroll": 8.35,
+    "player 1": "Bruce Rondon",
+    "player 1 pitches": 20
   },
   {
     "team": "Houston Astros",
     "pitches": 20,
     "players": 1,
-    "bullpen_payroll": 12.1
+    "bullpen_payroll": 12.1,
+    "player 1": "Ken Giles",
+    "player 1 pitches": 20
   },
   {
     "team": "Kansas City Royals",
     "pitches": 15,
     "players": 2,
-    "bullpen_payroll": 17.1
+    "bullpen_payroll": 17.1,
+    "player 1": "Yordano Ventura",
+    "player 1 pitches": 13,
+    "player 2": "Kelvin Herrera",
+    "player 2 pitches": 2
   },
   {
     "team": "Texas Rangers",
     "pitches": 14,
     "players": 1,
-    "bullpen_payroll": 4.96
+    "bullpen_payroll": 4.96,
+    "player 1": "Matt Bush",
+    "player 1 pitches": 14
   },
   {
     "team": "San Francisco Giants",
     "pitches": 7,
     "players": 1,
-    "bullpen_payroll": 19.73
+    "bullpen_payroll": 19.73,
+    "player 1": "Hunter Strickland",
+    "player 1 pitches": 7
   },
   {
     "team": "Washington Nationals",
     "pitches": 2,
     "players": 2,
-    "bullpen_payroll": 8.06
+    "bullpen_payroll": 8.06,
+    "player 1": "Felipe Rivero",
+    "player 1 pitches": 1,
+    "player 2": "Reynaldo Lopez",
+    "player 2 pitches": 1
   },
   {
     "team": "Cincinnati Reds",

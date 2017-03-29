@@ -1,22 +1,27 @@
 {
   "diaz": {
-    "title": "Diaz profile",
+    "title": "No fear, just fastballs",
+    "description": "Edwin Diaz shows he is not scared of the big moments, whether it's closing for the Mariners or his native Puerto Rico",
     "short": "The Man"
   },
   "mechanics": {
-    "title": "The mechanics",
+    "title": "Edwin Diaz can throw a baseball faster than you can. Here's why. ",
+    "description": "With his arms acting 'like a whip,' Edwin Diaz harnesses the power to throw a baseball really, really fast. ",
     "short": "The Mechanics"
   },
   "science": {
-    "title": "The science",
+    "title": "Don't blink: The science behind baseball's game of milliseconds ",
+    "description": "Here's a look at the complex nature of baseball's most primal interaction between 'man with rock' and 'man with stick.' ",
     "short": "The Science"
   },
   "trends": {
-    "title": "Trendspotting",
+    "title": "Here's how the 100-mph fastball became the slam dunk of baseball",
+    "description": "More pitchers are eclipsing triple digits with their fastballs than ever before, and they're getting paid more to boot. So what gives?",
     "short": "The Heat"
   },
   "closers": {
-    "title": "Coffee's for closers",
+    "title": "Closing time: Can Edwin Diaz end Mariners' fans justified end-of-game jitters?",
+    "description": "The Mariners' closing role has been the antithesis of stability over the years. Is Edwin Diaz the answer to Seattle's closing woes?",
     "short": "The History"
   }
 }

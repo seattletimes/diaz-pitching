@@ -1,9 +1,9 @@
 <div class="carousel">
 
-  <h1>Closing ranks</h1>
+  <h1>Coffee's for closers</h1>
 
   <p>
-    The history of Mariners closers is uneven, at best. Here's our power ranking of the team's late-game relievers. Click on a player for commentary.
+    The Mariners' closing role has been the antithesis of stability over the years. Larry Stone dusts off his Hot Stone League cap, and tilts it slightly askew, as he looks back at the Mariners' maddening end-of-game woes.
 
   <div class="scroll-container-container yes its dumb">
     <div class="scroll-container">
@@ -13,11 +13,13 @@
           data-rank="<%= s.rank %>"
           data-name="<%= s.closer %>"
           data-comment="<%= s.comment %>"
-          data-term="<%= s.year %>">
+          data-term="<%= s.year %>"
+          data-saves="<%= s.saves %>"
+        >
           <div class="tag">
             <%= s.rank %>. <%= s.closer %>
           </div>
-          <img src="http://placehold.it/300x450" class="player-image" data-index="<%= i %>">
+          <img src="../assets/closers/Mariners_Closers_<%= i < 9 ? "0" + (i + 1) : i + 1 %>.jpg" class="player-image" data-index="<%= i %>">
         </div>
       <% }) %>
       </div>
