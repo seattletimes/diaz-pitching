@@ -1,18 +1,11 @@
 <%
-  var pages = [
-    { url: "diaz", title: "Diaz profile" },
-    { url: "mechanics", title: "The mechanics" },
-    { url: "science", title: "The science" },
-    { url: "trends", title: "Trendspotting" },
-    { url: "closers", title: "Coffee's for closers" }
-  ];
   var current = typeof page == "string" ? page : "";
 %>
 <aside class="inline-nav">
   <h3>Mariners 2017 season preview</h3>
 
   <ul>
-    <% pages.forEach(function(p) { %>
+    <% grunt.data.json.navigation.forEach(function(p) { %>
       <% if (p.url == current) return; %>
     <li>
         <a href="../<%= p.url %>/"><%= p.title %></a>
