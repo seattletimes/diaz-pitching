@@ -67,7 +67,7 @@ The path to that moment wasn’t direct or as mercurial as one of his hissing, t
   <img src="../assets/200774_peoria242238.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
-    Mariners pitcher Edwin Diaz, wearing his WBC ballcap, identifies himself for his portrait, during picture day at spring training, Monday, Feb. 20, 2017, in Peoria, Ariz. 200774</p>
+    Mariners pitcher Edwin Diaz, wearing his WBC cap, identifies himself for his portrait during picture day at spring training in Peoria, Ariz.</p>
 </div>
 <main class="article-content">
 
@@ -100,7 +100,7 @@ But the focus was also on having fun and developing a passion for the game. Not 
   <img src="../assets/page1-inline.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
-    Closing pitcher Edwin Diaz at Mariners spring training, Tuesday, Feb. 14, 2017, in Peoria, Ariz. 200715</p>
+    Edwin Diaz sits and smiles during a break at Mariners spring training in Peoria, Ariz.</p>
 </div>
 </div>
 
@@ -157,6 +157,11 @@ The actual decision to convert Diaz to reliever didn’t happen all at once. It 
 
 Diaz’s name had come up in trade talks. Dipoto had never seen Diaz pitch much in person, having taken over as general manager just months before. He knew the right-hander’s resume — Mariners’ minor league pitcher of the year in 2015 after going 7-10 with a 3.82 ERA combined between Class A and Class AA. In an organization thin with high-level prospects, Diaz was their best pitching prospect.
 
+<blockquote class="pullquote">
+  "I wasn’t afraid of them. I needed to show them my stuff. I needed to show them I could pitch."
+  <div class="attribution">- Edwin Diaz</div>
+</blockquote>
+
 “We had all of our baseball people together, and we had a group discussion on Edwin Diaz,” Dipoto said. “Is he a starter? Is he a reliever?”
 
 This kind of debate isn’t uncommon for teams. There was discussion, a breakdown of every possible statistic both traditional and sabermetric, there was video of his delivery played over and over with critique of his delivery and pitches.
@@ -201,7 +206,7 @@ Six days later at Regions Field in Birmingham, Ala., Diaz the reliever entered t
 <aside class="side-img photo">
   <img src="../assets/diaz-minors-1.jpg">
   <div class="credit">Courtesy of Cody Cunningham / Jackson Generals </div>
-  <div class="caption">caption goes here </div>
+  <div class="caption">Edwin Diaz pitching for the Jackson Generals in 2016.</div>
 </aside>
 
 Marcus Littlewood had been catching Diaz for the last few seasons. He couldn’t believe the change in Diaz.
@@ -263,7 +268,7 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 <div class="section photo">
   <img src="../assets/157701_mari191472.jpg">
   <div class="credit">Photos by Ken Lambert / The Seattle Times</div>
-  <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div>
+  <div class="caption">Mariners closer Edwin Diaz pumps his arms to celebrate a game-sealing save over the Tigers on Monday, Aug. 8, 2016, at Safeco Field.</div>
 </div>
 
 <main class="article-content">
@@ -298,6 +303,7 @@ If the Mariners are playing in a game to end their postseason drought or perhaps
 <div class="photo">
   <img src="../assets/100cropped.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
+  <div class="caption">The scoreboard at Safeco Field flashes "100 MPH," one of many triple-digit pitches thrown by Edwin Diaz.</div>
 </div>
 <main class="article-content">
 
