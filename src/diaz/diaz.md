@@ -1,14 +1,16 @@
-*Fastball or slider?*
+<div class="lift">Fastball or slider?</div>
 
 There was only one choice in the mind of Edwin Diaz. His heart was pounding as adrenaline powered by intensity and irritation pulsed through his body. It was already elevated given the situation — one out, 10th inning, scored tied at 3-3 in a semifinal game of the World Baseball Classic at packed Dodger Stadium.
 
-*How dare he show me up?*
+<div class="lift">How dare he show me up?</div>
 
 Diaz stood on the mound and stared down the behemoth that was screaming at him and being restrained by his catcher, Yadier Molina. The sleepy eyelids that hide his chocolate-colored eyes barely blinked. He was simply waiting for Wladimir Balentien to get back in the batter’s box so it would all be over in quick and potentially embarrassing fashion.
 
 The confrontation started with the first two pitches of the at-bat. Diaz fired a first-pitch fastball at 98 mph that Balentien took a vicious swing at and fouled back. Balentien, who had homered earlier in the game and is a prior home run champion in Japan’s Nippon Professional Baseball league, stared down Diaz from the box, giving him a look acknowledging he just missed the pitch and nodding at the pitcher.
 
 Diaz nodded as if to say, “I got more of that.” And he did. On the second pitch of the at-bat, Diaz fired a 100-mph pitch at Balentien, who again hacked at it angrily, fouling it back. Balentien followed with another stare at Diaz and more head nodding and could be seen saying, “I’m on that.”
+
+<? <%= t.include("_inlineNav.html", { page: "diaz" }) %> ?>
 
 Then things got interesting. Diaz’s third pitch was another fastball at 99 mph. It ran up and in under Balentien’s chin. Was it a purpose pitch perhaps reminiscent of his childhood hero Pedro Martinez, whom he got advice from and exchanged phone numbers with earlier that day?
 
@@ -20,7 +22,7 @@ Regardless of intent, Balentien was unhappy, screaming at Diaz from the box and 
 
 So what would Diaz do on the 1-2 pitch?
 
-*Fastball or slider?*
+<div class="lift">Fastball or slider?</div>
 
 From Puerto Rico’s bullpen, reliever Emilio Pagan, a teammate of Diaz for the previous four seasons in the Mariners’ minor league system, had his own thoughts.
 
@@ -48,19 +50,28 @@ The thought of throwing anything else but the fastball never entered his mind.
 
 Back in Arizona, general manager Jerry Dipoto watched intently. Even in the short amount of time he’d gotten to know his young closer, he had his expectations.
 
-“Exactly what he did,” Dipoto said. “I knew he would, because we have a feel for Edwin. He painted a 98-mph fastball down and away. And that’s Edwin. He’s got confidence in himself. He knows who he is. His fastball is just as hard to hit as his slider is, if not more so.”
-
-Diaz closed out the inning with another strikeout and then pitched out of the 12th inning with a key double play. Puerto Rico would lose to the U.S. in the championship and Diaz wouldn’t throw a pitch in the game. Still, he had produced one of the signature moments of the WBC.
-
 <div class="mlb-container">
 <iframe src='http://m.mlb.com/shared/video/embed/embed.html?content_id=1244001883&topic_id=6479266&width=400&height=224&property=mlb' width='400' height='224' frameborder='0'>Your browser does not support iframes.</iframe>
 </div>
+
+“Exactly what he did,” Dipoto said. “I knew he would, because we have a feel for Edwin. He painted a 98-mph fastball down and away. And that’s Edwin. He’s got confidence in himself. He knows who he is. His fastball is just as hard to hit as his slider is, if not more so.”
+
+Diaz closed out the inning with another strikeout and then pitched out of the 12th inning with a key double play. Puerto Rico would lose to the U.S. in the championship and Diaz wouldn’t throw a pitch in the game. Still, he had produced one of the signature moments of the WBC.
 
 It was yet another reminder of how far he’d come so quickly. A year ago, he was one of a hundred pitchers getting his daily work in on the sun-baked backfields of the Mariners complex in Peoria.
 
 The path to that moment wasn’t direct or as mercurial as one of his hissing, triple-digit fastballs. It wasn’t as simple as being made a reliever and going from there. A player doesn’t just elevate himself into that moment, embrace the pressures that come with it and then own it with vigor by serendipity, happenstance or luck.
 
-## The roots
+</main>
+<div class="section photo">
+  <img src="../assets/200774_peoria242238.jpg">
+  <div class="credit">Ken Lambert / The Seattle Times</div>
+  <p class="caption">
+    Mariners pitcher Edwin Diaz, wearing his WBC ballcap, identifies himself for his portrait, during picture day at spring training, Monday, Feb. 20, 2017, in Peoria, Ariz. 200774</p>
+</div>
+<main class="article-content">
+
+<div class="subhead">The roots</div>
 
 Edwin Diaz Sr. is a man slight in stature but oversized in presence and personality. His energetic mannerisms and shoulders-back gait are noticeable in his son. He played baseball as a kid, but basketball was his sport and passion. At just about 5-9, Edwin Sr. was a lightning-quick point guard, a fierce competitor and unafraid to have the ball in his hands when the game was on the line.
 
@@ -80,14 +91,18 @@ Edwin Sr. would take his lessons learned in basketball and apply them to basebal
 
 But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.
 
-</main>
+<hr>
 <div class="photo">
   <img src="../assets/page1-inline.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
     Closing pitcher Edwin Diaz at Mariners spring training, Tuesday, Feb. 14, 2017, in Peoria, Ariz. 200715</p>
 </div>
-<main class="article-content">
+
+<div class="pullquote">“Oh, he was throwing the fastball. He's not afrad of anyone." Edwin Diaz Sr.</div>
+
+<hr>
+
 
 “Every day, he would have a bat in his hand and a ball and a glove,” Edwin Sr. said. “He drove me crazy with it.”
 
@@ -126,15 +141,15 @@ They selected Diaz in the third round of the 2012 draft with the 98th overall pi
 
 “We were excited when took him,” McNamara said. “We knew the kid was ready to go.”
 
-## The conversion
-
 </main>
-<div class="photo">
+<div class="section photo">
   <img src="../assets/diaz-portrait.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <div class="caption">Mariners closer Edwin Diaz shows his grip at spring training in Peoria, Ariz.</div>
 </div>
 <main class="article-content">
+
+<div class="subhead">The conversion</div>
 
 The actual decision to convert Diaz to reliever didn’t happen all at once. It was process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May  2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in San Diego.
 
@@ -154,16 +169,16 @@ Thoughts of converting Diaz to a reliever returned a few months later when he re
 
 “It started up again because I said, ‘Are we sure that there’s enough upside here as a starter to overrule what could be a really dynamic reliever?’” Dipoto said. “And then we started to talk about the difference that he could make on this team. No, we would not have assumed that it was going to happen as quickly as it did.”
 
-## The progression
-
 </main>
-<div class="photo">
+<div class="section photo">
   <img src="../assets/diaz-minors.jpg">
   <div class="credit">Courtesy of Cody Cunningham / Jackson Generals</div>
   <div class="caption">Edwin Diaz pitching for the Jackson Generals in 2016.
     </div>
 </div>
 <main class="article-content">
+
+<div class="subhead">The progression</div>
 
 Diaz made five starts with Class AA Jackson with decent success, posting a 2-3 record with a 3.00 ERA, striking out 35 batters and walking just five in 271/3 innings pitched. But after throwing two innings in his sixth start, he was pulled from the game without warning. After the game, Daren Brown, explained to Diaz the organization’s decision to convert him to reliever
 
@@ -181,15 +196,12 @@ Six days later at Regions Field in Birmingham, Ala., Diaz the reliever entered t
 
 “Blowing out everybody with my fastball,” he recalled. “I think I only needed to throw a couple of sliders.”
 
-
-<!-- </main>
 <div class="side-img photo">
   <img src="../assets/diaz-minors-1.jpg">
   <div class="credit">Courtesy of Cody Cunningham / Jackson Generals </div>
   <div class="caption">caption goes here </div>
 </div>
-<main class="article-content">
- -->
+
 Marcus Littlewood had been catching Diaz for the last few seasons. He couldn’t believe the change in Diaz.
 
 “It was like his whole mentality changed,” Littlewood said. “He knew he was going to throw just one inning so he was going all out. His stuff was just electric.”
@@ -224,7 +236,7 @@ His first pitch was a 99 mph fastball on bottom part of the zone for a strike �
 
 Feeling the adrenaline surge. Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
-*Fastball or slider?*
+<div class="lift">Fastball or slider?</div>
 
 There was no choice. Diaz knew Naquin would be prepared for it. To Diaz, it was more than just a strikeout. It was a display of who he was and what he wanted to become. Diaz went to the fastball again. Even prepared for it, Naquin just waved feebly at the 100-mph seed.
 
@@ -246,15 +258,21 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 
 </main>
 
-<div class="photo">
+<div class="section photo">
   <img src="../assets/157218_mari182542.jpg">
-  <div class="credit">Ken Lambert / The Seattle Times</div>
+<!--   <div class="credit">Ken Lambert / The Seattle Times</div>
+  <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div> -->
+</div>
+
+<div class="photo">
+  <img src="../assets/157701_mari191472.jpg">
+  <div class="credit">Photos by Ken Lambert / The Seattle Times</div>
   <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div>
 </div>
 
 <main class="article-content">
 
-## The closer
+<div class="subhead">The closer</div>
 
 Hours before the Mariners would face the Red Sox at Safeco Field on August 1, Servais held his daily pregame media session. His closer — Cishek — was in the midst of an awful stretch and had just coughed up another game the night before. The cries for Diaz to be the closer had grown within the fanbase. Servais had to follow that premonition of what he told Dipoto the night Diaz made his debut.
 
@@ -274,8 +292,17 @@ His status was only verified with his perforamnce in that WBC semifinal.
 
 “I thought that was his moment that frankly we can’t replicate, in player development, in spring training,” Dipoto said. “We can’t replicate anything like that. The Mariners haven’t played a game in a decade and a half where we could replicate that. He’s just got experience that we could not possibly pay for in player development or in preparing a young guy.”
 
-*Fastball or slider?*
+<div class="lift">Fastball or slider?</div>
 
 If the Mariners are playing in a game to end their postseason drought or perhaps their first playoff game since 2001 and that dilemma arises for Edwin Diaz late in the game, they know he won’t wither in the moment. It’s simple.
 
 “Just go after them without fear,” Diaz said.
+
+
+<div class="photo">
+  <img src="../assets/okland-diaz.jpg">
+  <div class="credit">Dean Rutz / The Seattle Times</div>
+  <div class="caption">Mariners manager Scott Servais congratulates Edwin Diaz on earning the save against Oakland Thursday night. The Oakland A's played the Seattle Mariners in the first of a four game set - the final four games of the regular season - Thursday, Sept. 29, 2016 at Safeco Field. </div>
+</div>
+
+
