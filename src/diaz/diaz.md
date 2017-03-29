@@ -294,11 +294,12 @@ If the Mariners are playing in a game to end their postseason drought or perhaps
 
 “Just go after them without fear,” Diaz said.
 
-
+</main>
 <div class="photo">
-  <img src="../assets/NAME.jpg">
-  <div class="credit"></div>
-  <div class="caption"></div>
+  <img src="../assets/100cropped.jpg">
+  <div class="credit">Ken Lambert / The Seattle Times</div>
 </div>
+<main class="article-content">
+
 
 
