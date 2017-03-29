@@ -1,17 +1,22 @@
 {
   "diaz": {
-    "title": "Diaz profile"
+    "title": "Diaz profile",
+    "short": "The Man"
   },
   "mechanics": {
-    "title": "The mechanics"
+    "title": "The mechanics",
+    "short": "The Mechanics"
   },
   "science": {
-    "title": "The science"
+    "title": "The science",
+    "short": "The Science"
   },
   "trends": {
-    "title": "Trendspotting"
+    "title": "Trendspotting",
+    "short": "The Heat"
   },
   "closers": {
-    "title": "Coffee's for closers"
+    "title": "Coffee's for closers",
+    "short": "The History"
   }
 }

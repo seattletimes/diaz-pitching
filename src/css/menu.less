@@ -10,6 +10,34 @@ nav.main-nav {
     // position: static;
   }
 
+  .menu-block {
+    display: none;
+
+    @media @tablet {
+      display: block;
+    }
+  }
+
+  .link-block {
+    display: block;
+    font-size: 15px;
+    font-family: @df-sans;
+    padding: 0 8px;
+
+    @media @tablet {
+      display: none;
+    }
+
+    label {
+      text-transform: uppercase;
+      font-family: @df-serif;
+    }
+
+    a {
+      padding: 0 8px;
+    }
+  }
+
   .activate {
     border: 1px solid black;
     padding: 4px 16px;

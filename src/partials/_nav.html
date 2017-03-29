@@ -22,6 +22,13 @@
 
     </div>
 
+    <div class="link-block">
+      <label>Mariners preview</label>
+      <% for (var k in grunt.data.json.navigation) { var p = grunt.data.json.navigation[k]; %>
+      <a href="../<%= k %>/"><%= p.short %></a>
+      <% } %>
+    </div>
+
     <a class="share top" aria-label="Share"></a>
 
   </div>
