@@ -23,9 +23,12 @@ var max = Math.max.apply(null, players.map(p => p.total));
       var remaining = all - over100;
       %>
     <div class="row">
-      <div class="label cell"><%= p.player %></div>
+      <div class="label cell"><%= p.player %>
+      </div>
       <div class="bars cell">
-        <div class="over-100 bar" style="width: <%= over100.toFixed(2) %>%"></div>
+        <div class="over-100 bar" style="width: <%= over100.toFixed(2) %>%">
+          <div class="bar-label"><%= p.over_100 %> (<%= p.percentage %>%)</div> 
+        </div>
         <div class="under-100 bar" style="width: <%= remaining.toFixed(2) %>%"></div>
       </div>
     </div>

@@ -1,5 +1,5 @@
-@all-color: @st-dark-orange;
-@over-100-color: @st-dark-red;
+@all-color: @st-light-blue;
+@over-100-color: @st-light-orange;
 
 .visualization {
   clear: both;
@@ -67,11 +67,22 @@
 
   .bar {
     height: 20px;
-    background: @st-dark-orange;
+    background: @all-color;
     float: left;
+    position: relative;
+    overflow: visible;
 
     &.over-100 {
-      background: @st-dark-red;
+      background: @over-100-color;
+    }
+
+    .bar-label {
+      position: absolute;
+      left: calc(~"100% + 4px");
+      white-space: pre;
+      z-index: 999;
+      top: 0;
+      font-size: 14px;
     }
   }
 

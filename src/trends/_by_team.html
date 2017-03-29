@@ -20,7 +20,9 @@
         bullpen is <%= row.bullpen_payroll %>% of payroll
       </div> -->
       <div class="bars cell">
-        <div class="bar" style="width: <%= (row.pitches / max * 100).toFixed(2) %>%"></div>
+        <div class="bar" style="width: <%= (row.pitches / max * 90).toFixed(2) %>%">
+          <div class="bar-label"><%= row.pitches %></div>
+        </div>
       </div>
     </div>
     <% }) %>
