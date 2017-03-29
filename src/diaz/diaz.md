@@ -91,17 +91,19 @@ Edwin Sr. would take his lessons learned in basketball and apply them to basebal
 
 But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.
 
-<hr>
+<div class="quote-photo">
+
+<div class="pullquote">“Oh, he was throwing the fastball. He's not afrad of anyone." 
+  <div class="attribution"> - Edwin Diaz Sr.</div></div>
+
 <div class="photo">
   <img src="../assets/page1-inline.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
     Closing pitcher Edwin Diaz at Mariners spring training, Tuesday, Feb. 14, 2017, in Peoria, Ariz. 200715</p>
 </div>
+</div>
 
-<div class="pullquote">“Oh, he was throwing the fastball. He's not afrad of anyone." Edwin Diaz Sr.</div>
-
-<hr>
 
 
 “Every day, he would have a bat in his hand and a ball and a glove,” Edwin Sr. said. “He drove me crazy with it.”
