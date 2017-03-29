@@ -2,7 +2,7 @@
 
 There was only one choice in the mind of Edwin Diaz. His heart was pounding as adrenaline powered by intensity and irritation pulsed through his body. It was already elevated given the situation — one out, 10th inning, scored tied at 3-3 in a semifinal game of the World Baseball Classic at packed Dodger Stadium.
 
-How dare he show me up?
+*How dare he show me up?*
 
 Diaz stood on the mound and stared down the behemoth that was screaming at him and being restrained by his catcher, Yadier Molina. The sleepy eyelids that hide his chocolate-colored eyes barely blinked. He was simply waiting for Wladimir Balentien to get back in the batter’s box so it would all be over in quick and potentially embarrassing fashion.
 
@@ -105,7 +105,8 @@ The lessons instilled in Diaz by his father became apparent as teams started to 
 
 “Correa was obviously a top guy,” said Tom McNamara, who was the Mariner director of amateur scouting at the time. “But Edwin — whenever there were 50-60 guys there, he wasn’t afraid. His body language was like: ‘This is what I want to do. I’m ready to do this. There’s no going to be no doubt that I’m going to give it everything I have.’”
 
-Some kids fold under the gazing eyes of baseball scouts, often middle-aged men armed with radar guns. Diaz embraced their presence and used them as fuel to his performance.
+Some kids fold under the gazing eyes of baseball scouts, often middle-aged men armed with radar guns. Diaz embraced their presence and used them as fuel to his 
+ormance.
 
 “I wasn’t afraid of them,” he said. “I needed to show them my stuff. I needed to show them I could pitch. They liked me and that’s why I’m here.”
 
