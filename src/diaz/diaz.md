@@ -245,11 +245,6 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 “After that first game, (manager Scott Servais) looked at me, he goes, ‘You know, it’s a matter of weeks until this guy’s closing,’” Dipoto said, “because it had that kind of feel to it.”
 
 </main>
-<div class="photo">
-  <img src="../assets/157218_mari182542.jpg">
-  <div class="credit">Ken Lambert / The Seattle Times</div>
-  <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div>
-</div>
 
 <div class="photo">
   <img src="../assets/157218_mari182542.jpg">
