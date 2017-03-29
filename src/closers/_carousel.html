@@ -14,6 +14,9 @@
           data-name="<%= s.closer %>"
           data-comment="<%= s.comment %>"
           data-term="<%= s.year %>">
+          <div class="tag">
+            <%= s.rank %>. <%= s.closer %>
+          </div>
           <img src="http://placehold.it/300x450" class="player-image" data-index="<%= i %>">
         </div>
       <% }) %>

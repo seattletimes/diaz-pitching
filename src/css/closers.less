@@ -57,9 +57,24 @@
     transform-origin: center;
     transition: transform .2s ease-in-out, opacity .2s linear;
     opacity: .8;
+    position: relative;
 
     @media @mobile {
       .flex(0 0 175px);
+    }
+
+    .tag {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      color: white;
+      opacity: 1;
+      transition: all .2s linear;
+      text-transform: uppercase;
+      font-style: italic;
+      padding: 8px;
+      font-weight: bold;
     }
 
     img {
@@ -70,6 +85,10 @@
     &.active {
       transform: scale(1.1);
       opacity: 1;
+
+      .tag {
+        opacity: 0;
+      }
     }
   }
 
