@@ -71,7 +71,7 @@ The path to that moment wasn’t direct or as mercurial as one of his hissing, t
 </div>
 <main class="article-content">
 
-<div class="subhead">The roots</div>
+## The roots
 
 Edwin Diaz Sr. is a man slight in stature but oversized in presence and personality. His energetic mannerisms and shoulders-back gait are noticeable in his son. He played baseball as a kid, but basketball was his sport and passion. At just about 5-9, Edwin Sr. was a lightning-quick point guard, a fierce competitor and unafraid to have the ball in his hands when the game was on the line.
 
@@ -91,20 +91,17 @@ Edwin Sr. would take his lessons learned in basketball and apply them to basebal
 
 But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.
 
-<div class="quote-photo">
 
-<div class="pullquote">“Oh, he was throwing the fastball. He’s not afraid of anyone." 
-  <div class="attribution"> - Edwin Diaz Sr.</div></div>
-
+</main>
 <div class="photo">
+  <div class="pullquote">“Oh, he was throwing the fastball. He’s not afraid of anyone." 
+  <div class="attribution"> - Edwin Diaz Sr.</div></div>
   <img src="../assets/page1-inline.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
     Edwin Diaz sits and smiles during a break at Mariners spring training in Peoria, Ariz.</p>
 </div>
-</div>
-
-
+<main class="article-content">
 
 “Every day, he would have a bat in his hand and a ball and a glove,” Edwin Sr. said. “He drove me crazy with it.”
 
@@ -151,7 +148,7 @@ They selected Diaz in the third round of the 2012 draft with the 98th overall pi
 </div>
 <main class="article-content">
 
-<div class="subhead">The conversion</div>
+## The conversion
 
 The actual decision to convert Diaz to reliever didn’t happen all at once. It was process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May  2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in San Diego.
 
@@ -185,7 +182,7 @@ Thoughts of converting Diaz to a reliever returned a few months later when he re
 </div>
 <main class="article-content">
 
-<div class="subhead">The progression</div>
+## The progression
 
 Diaz made five starts with Class AA Jackson with decent success, posting a 2-3 record with a 3.00 ERA, striking out 35 batters and walking just five in 271/3 innings pitched. But after throwing two innings in his sixth start, he was pulled from the game without warning. After the game, Daren Brown, explained to Diaz the organization’s decision to convert him to reliever
 
@@ -231,6 +228,14 @@ Diaz arrived at Globe Life Park in Texas and wandered around lost. He asked a ma
 
 “I think I can help you out,” Dipoto told Diaz.
 
+</main>
+<div class="photo">
+  <img src="../assets/100cropped.jpg">
+  <div class="credit">Ken Lambert / The Seattle Times</div>
+  <div class="caption">The scoreboard at Safeco Field flashes "100 MPH," one of many triple-digit pitches thrown by Edwin Diaz.</div>
+</div>
+<main class="article-content">
+
 Two days later at Safeco Field, Diaz made his major league debut to minimal fanfare, entering in the seventh inning with the Mariners trailing 3-1.
 
 With nervous energy pumping through his body and baseball-sized butterflies in his stomach, he rocked back and delivered his first big league pitch — a riding fastball at 96 mph for a strike to Chris Gimenez. The at-bat would end in a groundout.
@@ -273,7 +278,7 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 
 <main class="article-content">
 
-<div class="subhead">The closer</div>
+## The closer
 
 Hours before the Mariners would face the Red Sox at Safeco Field on August 1, Servais held his daily pregame media session. His closer — Cishek — was in the midst of an awful stretch and had just coughed up another game the night before. The cries for Diaz to be the closer had grown within the fanbase. Servais had to follow that premonition of what he told Dipoto the night Diaz made his debut.
 
@@ -298,14 +303,4 @@ His status was only verified with his perforamnce in that WBC semifinal.
 If the Mariners are playing in a game to end their postseason drought or perhaps their first playoff game since 2001 and that dilemma arises for Edwin Diaz late in the game, they know he won’t wither in the moment. It’s simple.
 
 “Just go after them without fear,” Diaz said.
-
-</main>
-<div class="photo">
-  <img src="../assets/100cropped.jpg">
-  <div class="credit">Ken Lambert / The Seattle Times</div>
-  <div class="caption">The scoreboard at Safeco Field flashes "100 MPH," one of many triple-digit pitches thrown by Edwin Diaz.</div>
-</div>
-<main class="article-content">
-
-
 

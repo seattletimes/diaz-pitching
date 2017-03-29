@@ -64,7 +64,7 @@ main.article-content {
     padding: 16px;
   }
 
-  .subhead {
+  h2 {
     font-family: @df-serif;
     font-size: 40px;
     text-align: center;
@@ -197,10 +197,15 @@ footer {
   }
 }
 
-
 // trying to get correct styling for quote to go off to the side
 blockquote {
   float: right;
+  width: 300px;
+
+  @media @mobile {
+    float: none;
+    width: 100%;
+  }
 }
 
 .photo {
