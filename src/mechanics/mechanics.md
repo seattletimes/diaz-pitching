@@ -25,12 +25,6 @@ His first pitch to the next hitter — Tyler Naquin — was a 99 mph fastball on
 
 Feeling the adrenaline surge, Diaz went back to his heater —  again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
-<aside class="photo side-img">
-  <img src="../assets/page2-inline.jpg">
-  <div class="credit">Ken Lambert / The Seattle Times</div>
-  <p class="caption">Mariners closer Edwin Diaz for special section, Thursday, Feb. 16, 2017, in Peoria, Ariz. 200791</p>
-</aside>
-
 It was the third pitch of the at-bat where Diaz inserted himself into the Mariners’ fans hearts. And it was the third pitch where it became evident that this kid that was all arms and legs and no backside might be something special. 
 
 With no hesitation, he went to the fastball again. Diaz knew Naquin would be prepared for it. And he didn’t care. Why? Because it didn’t matter. Diaz went into his awkward delivery that seems fitting for his Gumby-esque frame. And as his bullwhip of a right arm rocketed through and released the baseball toward home, sending it on a hissing, riding path of fury, it was over for Naquin. 

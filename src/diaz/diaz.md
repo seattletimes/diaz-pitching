@@ -1,8 +1,8 @@
-<div class="lift">Fastball or slider?</div>
+*Fastball or slider?*
 
 There was only one choice in the mind of Edwin Diaz. His heart was pounding as adrenaline powered by intensity and irritation pulsed through his body. It was already elevated given the situation — one out, 10th inning, scored tied at 3-3 in a semifinal game of the World Baseball Classic at packed Dodger Stadium.
 
-<div class="lift">How dare he show me up?</div>
+*How dare he show me up?*
 
 Diaz stood on the mound and stared down the behemoth that was screaming at him and being restrained by his catcher, Yadier Molina. The sleepy eyelids that hide his chocolate-colored eyes barely blinked. He was simply waiting for Wladimir Balentien to get back in the batter’s box so it would all be over in quick and potentially embarrassing fashion.
 
@@ -22,7 +22,7 @@ Regardless of intent, Balentien was unhappy, screaming at Diaz from the box and 
 
 So what would Diaz do on the 1-2 pitch?
 
-<div class="lift">Fastball or slider?</div>
+*Fastball or slider?*
 
 From Puerto Rico’s bullpen, reliever Emilio Pagan, a teammate of Diaz for the previous four seasons in the Mariners’ minor league system, had his own thoughts.
 
@@ -93,7 +93,7 @@ But the focus was also on having fun and developing a passion for the game. Not 
 
 <div class="quote-photo">
 
-<div class="pullquote">“Oh, he was throwing the fastball. He's not afrad of anyone." 
+<div class="pullquote">“Oh, he was throwing the fastball. He’s not afraid of anyone." 
   <div class="attribution"> - Edwin Diaz Sr.</div></div>
 
 <div class="photo">
@@ -198,11 +198,11 @@ Six days later at Regions Field in Birmingham, Ala., Diaz the reliever entered t
 
 “Blowing out everybody with my fastball,” he recalled. “I think I only needed to throw a couple of sliders.”
 
-<div class="side-img photo">
+<aside class="side-img photo">
   <img src="../assets/diaz-minors-1.jpg">
   <div class="credit">Courtesy of Cody Cunningham / Jackson Generals </div>
   <div class="caption">caption goes here </div>
-</div>
+</aside>
 
 Marcus Littlewood had been catching Diaz for the last few seasons. He couldn’t believe the change in Diaz.
 
@@ -238,7 +238,7 @@ His first pitch was a 99 mph fastball on bottom part of the zone for a strike �
 
 Feeling the adrenaline surge. Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
-<div class="lift">Fastball or slider?</div>
+*Fastball or slider?*
 
 There was no choice. Diaz knew Naquin would be prepared for it. To Diaz, it was more than just a strikeout. It was a display of who he was and what he wanted to become. Diaz went to the fastball again. Even prepared for it, Naquin just waved feebly at the 100-mph seed.
 
@@ -261,12 +261,6 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 </main>
 
 <div class="section photo">
-  <img src="../assets/157218_mari182542.jpg">
-<!--   <div class="credit">Ken Lambert / The Seattle Times</div>
-  <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div> -->
-</div>
-
-<div class="photo">
   <img src="../assets/157701_mari191472.jpg">
   <div class="credit">Photos by Ken Lambert / The Seattle Times</div>
   <div class="caption">A fastball by Mariners closer Edwin Diaz is flashed on screen as Diaz saves game in the ninth inning sealing victory over Tigers, Monday, Aug. 8, 2016, at Safecofield, in Seattle. </div>
@@ -294,7 +288,7 @@ His status was only verified with his perforamnce in that WBC semifinal.
 
 “I thought that was his moment that frankly we can’t replicate, in player development, in spring training,” Dipoto said. “We can’t replicate anything like that. The Mariners haven’t played a game in a decade and a half where we could replicate that. He’s just got experience that we could not possibly pay for in player development or in preparing a young guy.”
 
-<div class="lift">Fastball or slider?</div>
+*Fastball or slider?*
 
 If the Mariners are playing in a game to end their postseason drought or perhaps their first playoff game since 2001 and that dilemma arises for Edwin Diaz late in the game, they know he won’t wither in the moment. It’s simple.
 
@@ -302,9 +296,9 @@ If the Mariners are playing in a game to end their postseason drought or perhaps
 
 
 <div class="photo">
-  <img src="../assets/okland-diaz.jpg">
-  <div class="credit">Dean Rutz / The Seattle Times</div>
-  <div class="caption">Mariners manager Scott Servais congratulates Edwin Diaz on earning the save against Oakland Thursday night. The Oakland A's played the Seattle Mariners in the first of a four game set - the final four games of the regular season - Thursday, Sept. 29, 2016 at Safeco Field. </div>
+  <img src="../assets/NAME.jpg">
+  <div class="credit"></div>
+  <div class="caption"></div>
 </div>
 
 
