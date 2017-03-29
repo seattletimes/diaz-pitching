@@ -1,3 +1,8 @@
+<div class="opening pullquote">
+  "When guys like Diaz step up, what are you gonna see? You remember that more than anything that happened in the game. It used to be that the home run was the slam dunk of baseball, now it’s the 100 mph fastball."
+  <div class="attribution">- Jonathan Hock, writer and director of the documentary “Fastball.”</div>
+</div>
+
 On the ninth pitch of his first appearance in the majors, Edwin Diaz  fired a second strike past the Indians’ Rajai Davis. The reading on the stadium radar gun: 100.3 mph.
 
 It was the 13th-fastest out of 24 100-mph-plus pitches Diaz would throw from his June 6 debut to the end of the 2016 season. 
@@ -15,11 +20,6 @@ What in 2008 was a group of eight led by Joel Zumaya had swelled to 34 pitchers 
 <?<%= t.include("trends/_top_10_pitchers.html") %>?>
 
 “It seems like everyone out of the pen these days is throwing in the high 90s. The game’s definitely evolving,” Mariners infielder Danny Valencia said. “Guys are getting bigger, faster, stronger. I think the games obviously changing and with nutrition, exercise and modern medicine, it seems like guys are becoming way more athletic and are able to do more impressive stuff. It’s definitely more challenging as a hitter to hit those guys.”
-
-<div class="pullquote">
-  "Part of the excitement is keeping one eye on the scoreboard. When guys like Diaz step up, what are you gonna see? You remember that more than anything that happened in the game. It used to be that the home run was the slam dunk of baseball, now it’s the 100 mph fastball. When you see triple digits on the scoreboard, it is really exciting. You can hear the crowd, you can feel the electricity."
-  <div class="attribution">- Jonathan Hock, writer and director of the documentary “Fastball.”</div>
-</div>
 
 It took all of 13 Class AAA starts in 2010 of Chapman showcasing his record-breaking fastball but little else for the Reds to cut the string and allow his two-pitch repertoire to begin dominating out of the big league bullpen. Six years later, Diaz entered the eighth inning of  Class AA Jackson’s game and the next day general manager Jerry Dipoto announced the Mariners were doing the same.
 

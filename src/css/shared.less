@@ -6,12 +6,14 @@ header.splash {
     width: 100%;
   }
 
-  .placeholder {
-    &::before {
-      content: "";
-      display: block;
-      padding-bottom: percentage(9 / 16);
-      background: linear-gradient(to bottom, @df-middle-gray, @df-light-gray);
+  & > h1 {
+    display: block;
+    margin: auto;
+    max-width: 800px;
+    padding: 32px 0 16px;
+
+    @media @mobile {
+      padding: 16px;
     }
   }
 }
@@ -21,7 +23,7 @@ header.splash {
   font-size: 18px;
   max-width: 800px;
   margin: auto;
-  padding-top: 40px;
+  padding-top: 20px;
 
 
   @media @tablet {
@@ -195,6 +197,15 @@ footer {
       font-size: 15px;
     }
   }
+
+  &.opening {
+    margin-top: 40px;
+    font-size: 20px;
+
+    .attribution {
+      font-size: 16px;
+    }
+  }
 }
 
 // trying to get correct styling for quote to go off to the side
@@ -298,7 +309,6 @@ blockquote {
   }
 
   a {
-    text-transform: uppercase;
     color: @df-blue;
     font-family: @df-sans;
   }
