@@ -6,17 +6,30 @@ header.splash {
     width: 100%;
   }
 
-  & > h1 {
+  & > h1, & > h2 {
     display: block;
     margin: auto;
     max-width: 800px;
-    padding: 32px 0 16px;
     font-style: italic;
     text-transform: uppercase;
+    text-align: center;
 
     @media @tablet {
       padding: 16px;
       font-size: 28px;
+    }
+  }
+
+  & > h1 {
+    font-size: 36px;
+    padding-top: 20px;
+  }
+
+  & > h2 {
+    padding-bottom: 20px;
+
+    @media @mobile {
+      font-size: 20px;
     }
   }
 }
@@ -26,7 +39,7 @@ header.splash {
   font-size: 18px;
   max-width: 800px;
   margin: auto;
-  padding-top: 40px;
+  padding-top: 24px;
 
 
   @media @tablet {

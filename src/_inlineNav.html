@@ -8,7 +8,7 @@
     <% for (var k in grunt.data.json.navigation) { var p = grunt.data.json.navigation[k]; %>
       <% if (k == current) continue; %>
     <li>
-        <a href="../<%= k %>/"><%= p.title %></a>
+        <a href="../<%= k %>/"><%= p.short %></a>
     <% } %>
   </ul>
 

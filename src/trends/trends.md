@@ -1,8 +1,8 @@
 
-<p class="opening-quote">
+<div class="opening-quote">
   "It used to be that the home run was the slam dunk of baseball, now it’s the 100 mph fastball."
   <div class="quote-attribution">- Jonathan Hock, writer and director of the documentary “Fastball.”</div>
-</p>
+</div>
 
 On the ninth pitch of his first appearance in the majors, Edwin Diaz  fired a second strike past the Indians’ Rajai Davis. The reading on the stadium radar gun: 100.3 mph.
 
