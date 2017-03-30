@@ -245,7 +245,7 @@ Relaxed after getting that first out, Diaz went into attack mode on left-handed 
 
 His first pitch was a 99 mph fastball on bottom part of the zone for a strike — an almost unhittable first pitch.
 
-Feeling the adrenaline surge. Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
+Feeling the adrenaline surge, Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
 *Fastball or slider?*
 
