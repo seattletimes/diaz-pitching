@@ -8,12 +8,13 @@ if (typeof page == "undefined") {
   var p = page;
   var meta = grunt.data.json.navigation[page];
   meta.url = grunt.data.json.project.url + p + "/";
+  meta.image = grunt.data.json.project.url + "assets/" + meta.image;
 }
 
 %><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
-<title><%= grunt.data.json.project.title %></title>
+<title><%= meta.title %> | Mariners Preview 2017</title>
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="http://apps-production.s3.amazonaws.com/static/images/favicon.ico" type="image/x-icon">
