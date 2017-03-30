@@ -15,16 +15,39 @@
 
 .visualization.pitching-breakdown {
 
+  .pitch-animation {
+    .display-flex();
+
+    img {
+      width: 100%;
+    }
+
+    .cel {
+      transition: opacity .2s linear;
+      &.hide {
+        opacity: 0;
+      }
+    }
+  }
+
   .stage {
     .display-flex();
+    .align-items(center);
+    .justify-content(center);
     padding: 12px 0;
 
     @media @mobile {
       display: block;
     }
 
+    .frame {
+      .flex(0 0 25%);
+      text-align: center;
+    }
+
     .commentary {
       padding: 0 12px;
+      .flex(0 1 300px);
     }
   }
 }

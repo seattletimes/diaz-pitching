@@ -1,4 +1,12 @@
 <div class="pitching-breakdown visualization">
+  <div class="pitch-animation">
+    <% for (var i = 1; i <= 8; i++) { %>
+    <div class="cel" data-stage="<%= i %>">
+      <img src="../assets/breakdown/diaz<%= i %>g.jpg">
+    </div>
+    <% } %>
+  </div>
+
   <h1>Breaking down the mechanics of a 100-mph fastball</h1>
 
   <p>
@@ -8,10 +16,10 @@
     <% json.pitch_breakdown.forEach(function(row) { %>
     <div class="stage">
       <div class="frame">
-        <img src="../assets/pitch/<%= row.image %>">
+        <img src="../assets/breakdown/<%= row.image %>">
       </div>
       <div class="commentary">
-        <%= row.comment %>
+        "<%= row.comment %>"
       </div>
     </div>
     <% }) %>
