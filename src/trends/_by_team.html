@@ -11,7 +11,7 @@
   %>
   <div class="graph">
     <% teams.forEach(function(row) { %>
-    <div class="row">
+    <div class="row <%= row.team == "Seattle Mariners" ? "home" : "away" %>">
       <div class="label cell team">
         <%= row.team %>
       </div>

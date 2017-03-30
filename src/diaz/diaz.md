@@ -94,8 +94,6 @@ But the focus was also on having fun and developing a passion for the game. Not 
 
 </main>
 <div class="photo">
-  <div class="pullquote">“Oh, he was throwing the fastball. He’s not afraid of anyone." 
-  <div class="attribution"> - Edwin Diaz Sr.</div></div>
   <img src="../assets/page1-inline.jpg">
   <div class="credit">Ken Lambert / The Seattle Times</div>
   <p class="caption">
@@ -110,6 +108,11 @@ After playing  basketball and baseball as a child, a tournament conflict one wee
 There was never a focus on pitching immediately. Diaz played all over the field and enjoying the game, but eventually his father pushed him toward the mound to take advantage of his long arms and whippy throwing motion.
 
 To reward his baseball-obsessed sons, Edwin Sr., who was not man of great financial means, took them to Puerto Rican professional games and later the WBC qualifiers. It was there that Diaz dreamed of representing Puerto Rico.
+
+<blockquote class="pullquote">
+  “Oh, he was throwing the fastball. He’s not afraid of anyone." 
+  <div class="attribution"> - Edwin Diaz Sr.</div>
+</blockquote>
 
 The son reciprocated on the gifts of his youth by taking his father through the entire WBC process.
 

@@ -11,6 +11,8 @@ header.splash {
     margin: auto;
     max-width: 800px;
     padding: 32px 0 16px;
+    font-style: italic;
+    text-transform: uppercase;
 
     @media @mobile {
       padding: 16px;
@@ -23,17 +25,18 @@ header.splash {
   font-size: 18px;
   max-width: 800px;
   margin: auto;
-  padding-top: 20px;
+  padding-top: 40px;
 
 
   @media @tablet {
     padding: 0 16px;
+    padding-top: 40px;
 
   }
 
   @media @mobile {
     padding: 0 16px;
-    padding-top: 25px;
+    padding-top: 40px;
 
   }
 
@@ -73,15 +76,21 @@ main.article-content {
     text-align: center;
     font-weight: bold;
     max-width: 610px;
-    padding-top: 30px;
+    padding-top: 40px;
     text-transform: uppercase;
+    margin-top: 0px;
 
     @media @mobile {
       font-size: 30px;
       margin-top: 10px;
       padding-top: 0px;
     }
+  }
 
+  &:not(:last-child) {
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid @df-light-gray;
   }
 
   hr {
@@ -172,7 +181,7 @@ footer {
 
 .pullquote {
   font-family: @df-sans;
-  font-size: 25px;
+  font-size: 24px;
   font-weight: bold;
   text-align: center;
   padding-bottom: 10px;
@@ -226,6 +235,7 @@ blockquote {
 .photo {
   max-width: 1200px;
   margin: auto;
+  padding-top: 24px;
 
   .credit {
     text-align: right;
@@ -244,19 +254,20 @@ blockquote {
     font-family: @df-sans;
     font-size: 16px;
     max-width: 100%;
+    padding-bottom: 24px;
   }
 
-  &.section {
-    padding-top: 50px;
+  // &.section {
+  //   padding-top: 50px;
 
-    @media @tablet {
-      padding-top: 25px;
-    }
+  //   @media @tablet {
+  //     padding-top: 25px;
+  //   }
 
-    @media @mobile {
-      padding-top: 15px;
-    }
-  }
+  //   @media @mobile {
+  //     padding-top: 15px;
+  //   }
+  // }
 }
 
 .side-img{

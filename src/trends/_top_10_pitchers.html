@@ -22,7 +22,7 @@ var max = Math.max.apply(null, players.map(p => p.total));
       var over100 = p.over_100 / all;
       var remaining = all - over100;
       %>
-    <div class="row">
+    <div class="row <%= p.player == "Edwin Diaz" ? "active-player" : "" %>">
       <div class="label cell"><%= p.player %>
       </div>
       <div class="bars cell">
