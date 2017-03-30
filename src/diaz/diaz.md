@@ -227,14 +227,6 @@ Diaz arrived at Globe Life Park in Texas and wandered around lost. He asked a ma
 
 “I think I can help you out,” Dipoto told Diaz.
 
-</main>
-<div class="photo">
-  <img src="../assets/100cropped.jpg">
-  <div class="credit">Ken Lambert / The Seattle Times</div>
-  <div class="caption">The scoreboard at Safeco Field flashes "100 MPH," one of many triple-digit pitches thrown by Edwin Diaz.</div>
-</div>
-<main class="article-content">
-
 Two days later at Safeco Field, Diaz made his major league debut to minimal fanfare, entering in the seventh inning with the Mariners trailing 3-1.
 
 With nervous energy pumping through his body and baseball-sized butterflies in his stomach, he rocked back and delivered his first big league pitch — a riding fastball at 96 mph for a strike to Chris Gimenez. The at-bat would end in a groundout.
@@ -244,6 +236,8 @@ But it was the second batter that left his teammates and fans buzzing.
 Relaxed after getting that first out, Diaz went into attack mode on left-handed hitting Tyler Naquin.
 
 His first pitch was a 99 mph fastball on bottom part of the zone for a strike — an almost unhittable first pitch.
+
+<?<%= t.include("partials/_ad.html", { type: "square" }) %>?>
 
 Feeling the adrenaline surge, Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
@@ -280,6 +274,8 @@ That night, Diaz was called on to protect a 5-4 lead in an environment that didn
 From there, Diaz would finish with 18 saves with the Mariners. He wasn’t always perfect. He gave up walk-off homer to Rougned Odor in Texas on Aug. 30 trying for a six-out save for the first time at the MLB level. He blew two more and walked the tight rope in others as fatigue set in. But it was in those moments that Dipoto know his decision was right.
 
 “My favorite times were watching how he handled the adversity later in the season when he tired, and he blew a couple,” Dipoto said. “It wasn’t as easy for him, and his reaction. I closed as a rookie, and I didn’t do it a third as well as Edwin does it. But you learn very quickly how to mature and how resilient you are.”
+
+<?<%= t.include("partials/_ad.html", { type: "square" }) %>?>
 
 Besides the 18 saves, Diaz posted ridiculous strikeout numbers. He punched out 88 batters in 51 2/3 innings for a rate of 15.33 strikeouts per nine innings. He struck two or more batters in 29 of his 49 appearances.
 
