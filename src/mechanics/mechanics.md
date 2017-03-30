@@ -1,8 +1,6 @@
 The first should not be forgotten.
 
-Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on June 6. No one was quite sure what to expect from the young right-hander who looked to be all legs and arms and missing a backside on his 6-foot-3, 165-pound frame. 
-
-Some of the crowd of 15,824 cheered for the youngster making his debut out of courtesy. But only the diehard fans who follow the Mariners’ prospects understood the importance of the evening. Diaz had been the organization’s minor league starting pitcher of the year in 2015 and was converted to a reliever in the first month of the 2016 season. Though dominant, he’d made just 10 relief appearances for Class AA Jackson before being summoned to the big leagues to provide a soft-tossing Seattle bullpen with a legitimate power arm. 
+Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on June 6. No one was quite sure what to expect from the young right-hander who looked to be all legs and arms and missing a backside on his 6-foot-3, 165-pound frame.  
 
 </main>
 <div class="photo">
@@ -15,11 +13,9 @@ Some of the crowd of 15,824 cheered for the youngster making his debut out of co
 
 Diaz had been called up two days earlier and manager Scott Servais waited for the right time to bring him in for a “soft landing” in his debut. With the Mariners trailing 3-1 and getting shut down by Cleveland starter Trevor Bauer, Diaz entered the game in the bottom of the seventh in relief of James Paxton to not led the lead grow. 
 
-With nervous energy pumping through his body and baseball-sized butterflies in his stomach, he rocked back and delivered his first big league pitch — a riding fastball at 96 mph for a strike to Chris Gimenez. He got a swinging strike two on a nasty slider. His third pitch was a 99 mph fastball for a ball. Another slider got a ground ball to third base for an easy first out. 
+After getting the first batter, Chris Gimenez, to gound out to third base, Diaz exhaled as he circled the mound. Now he could relax. And what came next was special. 
 
 <? <%= t.include("_inlineNav.html", { page: "mechanics" }) %> ?>
-
-It was then you could see Diaz exhale as he circled the mound. That first out made things easier. Now he could go. Now he could relax. And what came next was special. 
 
 His first pitch to the next hitter — Tyler Naquin — was a 99 mph fastball on the bottom part of the zone for a strike. It was an almost unhittable first pitch. 
 
@@ -35,10 +31,20 @@ The fastball that he knew was coming wasn’t going to be hit. He swung, missed 
   <iframe src='http://m.mlb.com/shared/video/embed/embed.html?content_id=783846883&topic_id=32862096&width=360&height=201&property=mlb' width='360' height='201' frameborder='0'>Your browser does not support iframes.</iframe>
 </div>
 
-Every pitcher remembers his first strikeout and the details of it. But it’s not often that fans remember it, too. 
+Kyle Seager stood at third base watching it all unfold. 
 
-The inning wasn’t over. Facing Rajai Davis, Diaz flipped a nasty slider for a swinging strike one and then came back a 100 mph fastball on the outside corner to make it 0-2. Fans in the stands rose to their feet cheering in anticipation. Diaz unleashed another fastball. This time it was 101 mph. Davis got a piece of it and fouled it back off the mask of catcher Chris Iannetta. The sheer force and angle knocked Iannetta’s mask off his face. 
+“I don’t remember ever seeing him throw before that, but you certainly remembered afterward,” he said. 
 
-Diaz wouldn’t get the punch out on Davis, who grounded out on a slider to end a perfect first inning. But Diaz would go on to get 87 more strikeouts in his rookie season. He would eventually take over closing duties and is looked to as an integral part of the Mariners future as the closer for this year and beyond. 
+Steve Cishek and the rest of the bullpen watched intently. 
 
-But that first strikeout with three fastballs — 99 mph, 99 mph and 100 mph — was the beginning of something special. 
+“You are thinking, ‘OK kid, just try and throw strikes,’” he said. “And then all of the sudden he’s throwing 100 mph, blowing the doors off everyone and painting with that fastball. And you are like: ‘Holy cow, what is going on? This is crazy.’”
+
+That first strikeout with three fastballs — 99 mph, 99 mph and 100 mph — was only the beginning. But how has Diaz continued to replicate these results with mechanics that invoke the word "funk" from Mariners pitching coach Mel Stottlemyre? 
+
+"His arm is loose like a whip," Stottlemyre said. "He's got a funky leg kick. ... There's definitely some deception in there. Sometimes when guys have that little bit of funk and they do things the way that they do ... as pitching coaches you're not sure where to go."
+
+But the heat, the deception, the movement -- it all comes naturally to Diaz.
+
+"We spent very little time talking about his delivery," Stottlemyre said. "For a young guy, he knows where to go."
+
+Now, it's just a matter of how far he can go.
