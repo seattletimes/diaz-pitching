@@ -10,20 +10,37 @@ header.splash.closers {
     width: 100%;
     text-shadow: 0 0 4px white;
     text-align: center;
-    padding: 16px 64px;
+    padding: 16px 60px;
     background: fade(white, 70%);
+
+    @media @mobile {
+      bottom: 20px;
+      padding: 16px 31px;
+    }
 
     h1 {
       font-size: 64px;
       padding: 0;
       margin: 0;
       display: block;
+
+      @media @mobile {
+        font-size: 45px;
+      }
     }
 
     h2 {
       font-size: 24px;
       padding: 0;
       margin: 0;
+
+      @media @mobile {
+        font-size: 18px;
+      }
+
+      @media @tablet {
+        font-size: 21px;
+      }
     }
   }
 }

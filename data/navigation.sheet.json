@@ -2,12 +2,13 @@
   "diaz": {
     "title": "No fear, just fastballs",
     "description": "Edwin Diaz shows he is not scared of the big moments, whether it's closing for the Mariners or his native Puerto Rico",
-    "image": "diaz-banner-color.jpg",
+    "image": "mariners-card-quote4.jpg",
     "short": "The Man"
   },
   "mechanics": {
     "title": "The whip, the deceit, the heat: How Edwin Diaz hits triple digits ",
     "description": "With his arms acting 'like a whip,' Edwin Diaz harnesses the power to throw a baseball really, really fast. ",
+    "image": "mariners-card-diaz-illo.jpg",
     "short": "The Mechanics"
   },
   "science": {
@@ -19,13 +20,13 @@
   "trends": {
     "title": "Here's how the 100-mph fastball became the 'slam dunk of baseball'",
     "description": "More pitchers are eclipsing triple digits with their fastballs than ever before, and they're getting paid more to boot. So what gives?",
-    "image": "page1-inline2.jpg",
+    "image": "mariners-card-fastball.jpg",
     "short": "The Heat"
   },
   "closers": {
     "title": "Closing time: Can Edwin Diaz end Mariners' fans justified end-of-game jitters?",
     "description": "The Mariners' closing role has been the antithesis of stability over the years. Is Edwin Diaz the answer to Seattle's closing woes?",
-    "image": "mariners-closers.jpg",
+    "image": "mariners-card-closers.jpg",
     "short": "The History"
   }
 }
