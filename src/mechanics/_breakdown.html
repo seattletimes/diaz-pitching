@@ -1,0 +1,19 @@
+<div class="pitching-breakdown visualization">
+  <h1>The breakdown</h1>
+
+  <p>
+    Chatter goes here
+
+  <div class="stages">
+    <% json.pitch_breakdown.forEach(function(row) { %>
+    <div class="stage">
+      <div class="frame">
+        <img src="../assets/pitch/<%= row.image %>">
+      </div>
+      <div class="commentary">
+        <%= row.comment %>
+      </div>
+    </div>
+    <% }) %>
+  </div>
+</div>

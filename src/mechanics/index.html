@@ -29,6 +29,8 @@
 
     <main class="article-content">
       <%= markdown.mechanics %>
+
+      <%= t.include("mechanics/_breakdown.html") %>
     </main>
 
     <%= t.include("_nextPage.html", { next: "science", previous: "diaz" }) %>
