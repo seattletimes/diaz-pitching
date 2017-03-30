@@ -1,23 +1,6 @@
 <!doctype html>
-<html lang="en-US">
+<html>
   <head>
-    <%= t.include("partials/_head.html") %>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta http-equiv="refresh" content="0; ./diaz/">
   </head>
-  <body>
-
-    <ol>
-      <li> <a href="./diaz/">Diaz profile</a>
-      <li> <a href="./mechanics/">Mechanics</a>
-      <li> <a href="./science/">Science</a>
-      <li> <a href="./trends/">Trends</a>
-      <li> <a href="./closers/">Closers</a>
-    </ol>
-
-    <script src="app.js" async></script>
-    <% if (json.project.production) { %>
-    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
-    <%= t.include("partials/_workHere.html") %>
-    <% } %>
-  </body>
 </html>
