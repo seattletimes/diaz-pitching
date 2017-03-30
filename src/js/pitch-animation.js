@@ -1,7 +1,6 @@
 var $ = require("./lib/qsa");
 
 var cels = $(".pitching-breakdown .cel");
-console.log(cels);
 
 var index = 0;
 var step = function() {
