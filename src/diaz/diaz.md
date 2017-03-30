@@ -60,7 +60,7 @@ Diaz closed out the inning with another strikeout and then pitched out of the 11
 
 It was yet another reminder of how far he’d come so quickly. A year ago, he was one of a hundred pitchers getting his daily work in on the sun-baked backfields of the Mariners complex in Peoria.
 
-The path to that moment wasn’t direct or as mercurial as one of his hissing, triple-digit fastballs. It wasn’t as simple as being made a reliever and going from there. A player doesn’t just elevate himself into that moment, embrace the pressures that come with it and then own it with vigor by serendipity, happenstance or luck.
+<p class="section-bottom">The path to that moment wasn’t direct or as mercurial as one of his hissing, triple-digit fastballs. It wasn’t as simple as being made a reliever and going from there. A player doesn’t just elevate himself into that moment, embrace the pressures that come with it and then own it with vigor by serendipity, happenstance or luck.</p>
 
 </main>
 <div class="section photo">
@@ -89,8 +89,7 @@ Edwin Sr. would take his lessons learned in basketball and apply them to basebal
 
 “We talked about it even as a little kid, the mental things of the game to get him strong,” Edwin Sr. said. “That the moment won’t impact you and having the mental strength to not be impacted by the moment. I worked with both Edwin and Alexis about the mental strengths of the game.”
 
-But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.
-
+<p class="section-bottom">But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.</p>
 
 </main>
 <div class="photo">
@@ -140,7 +139,7 @@ But attitude only gets you so far. Talent is the separator and Diaz had it. Whil
 
 They selected Diaz in the third round of the 2012 draft with the 98th overall pick.
 
-“We were excited when we took him,” McNamara said. “We knew the kid was ready to go.”
+<p class="section-bottom">“We were excited when we took him,” McNamara said. “We knew the kid was ready to go.”</p>
 
 </main>
 <div class="section photo">
@@ -173,7 +172,7 @@ In the end, no consensus was made. Diaz would remain a starter and report to min
 
 Thoughts of converting Diaz to a reliever returned a few months later when he reported to Mariners’ minor league minicamp and Dipoto watched him throw bullpen sessions, live batting practice and in a game situation.
 
-“It started up again because I said, ‘Are we sure that there’s enough upside here as a starter to overrule what could be a really dynamic reliever?’” Dipoto said. “And then we started to talk about the difference that he could make on this team. No, we would not have assumed that it was going to happen as quickly as it did.”
+<p class="section-bottom">“It started up again because I said, ‘Are we sure that there’s enough upside here as a starter to overrule what could be a really dynamic reliever?’” Dipoto said. “And then we started to talk about the difference that he could make on this team. No, we would not have assumed that it was going to happen as quickly as it did.”</p>
 
 </main>
 <div class="section photo">
@@ -254,7 +253,7 @@ Sound familiar?
 
 Diaz worked a scoreless inning and left to a standing ovation from the crowd of just over 15,000 in attendance.
 
-“After that first game, (manager Scott Servais) looked at me, he goes, ‘You know, it’s a matter of weeks until this guy’s closing,’” Dipoto said, “because it had that kind of feel to it.”
+<p class="section-bottom">“After that first game, (manager Scott Servais) looked at me, he goes, ‘You know, it’s a matter of weeks until this guy’s closing,’” Dipoto said, “because it had that kind of feel to it.”</p>
 
 </main>
 
