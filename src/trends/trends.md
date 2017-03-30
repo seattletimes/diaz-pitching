@@ -1,5 +1,5 @@
 <div class="opening pullquote">
-  "When guys like Diaz step up, what are you gonna see? You remember that more than anything that happened in the game. It used to be that the home run was the slam dunk of baseball, now it’s the 100 mph fastball."
+  "When guys like Diaz step up, what are you gonna see? You remember that more than anything that happened in the game. It used to be that the home run was the slam dunk of baseball, now it’s the 100-mph fastball."
   <div class="attribution">- Jonathan Hock, writer and director of the documentary “Fastball.”</div>
 </div>
 
