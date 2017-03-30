@@ -29,9 +29,47 @@ It took all of 13 Class AAA starts in 2010 of Chapman showcasing his record-brea
 
 Diaz’s early success was quantifiable, no matter your bent. His stat line included an average of nearly two punchouts an inning (15.33 K/9), a 2.79 ERA and an even lower FIP, 2.04. It took him only 51⅔ innings to accumulate 1.9 fWAR. Perhaps more impressive was his ability to blow his tailing four-seamer past batters and intermix a sweeping slider.
 
+<div class="visualization side-by-side">
+  <div class="row">
+    <div class="text">
+      <h1>Dramatic rise in pitchers throwing 100 mph or higher in past nine seasons</h1>
+      <p>
+        In 2008, only eight pitchers in Major League Baseball could hit 100 on the radar gun. But since then, the numbers have ballooned and hard-throwing relievers are a trend.
+    </div>
+    <div class="image">
+      <img src="../assets/WEB-Diaz-graphic1.jpg">
+    </div>
+  </div>
+  <div class="attribution">
+    <div class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
+    <div class="source">Source: baseballsavant.mlb.com</div>
+  </div>
+</div>
+
 When the Reds converted Chapman, then-GM Walt Jocketty’s intentions were for it only to be temporary. Dipoto has shown no indication of considering moving Diaz, his slender frame and fastball-slider combo back into the rotation.
 
 Despite the Reds returning each of the next two spring trainings to the infatuation of starting pitcher Aroldis Chapman, he inked a five-year, $86 million contract with the Yankees this offseason having never started a major league game. It was the largest contract ever given to a reliever, followed only by Kenley Jansen and Mark Melancon’s deals, all completed in the first two weeks of December 2016. 
+
+<div class="visualization side-by-side">
+  <div class="row">
+    <div class="text">
+      <h1>Which teams have the power arms?</h1>
+      <p>
+        Three teams dominate in the fastball race, with Atlanta, the N.Y. Yankees and the Cubs leading the market on players who throw the most 100 mph (or higher) pitches. Closer Aroldis Chapman (pictured), who played for the Cubs and Yankees last year, threw 55.35 percent of his total pitches at at least 100 mph. 
+      <p>
+        The Mariners have four 100 mph pitchers: Edwin Diaz, James Paxton, Dan Altavilla and Arquimedes Caminero.
+      <p>
+        Chapman makes more money than any other reliever in history: an average of $17.2 million per season under his contract that runs through 2021.
+    </div>
+    <div class="image">
+      <img src="../assets/WEB-Diaz-graphic3.jpg">
+    </div>
+  </div>
+  <div class="attribution">
+    <div class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
+    <div class="source">Source: baseballsavant.mlb.com</div>
+  </div>
+</div>
 
 Teams are spending more than they ever have on their bullpens, up 18.8 percent and nearly $100 million league-wide from 2016. Just to complete their bullpen, the Mariners handed 31-year-old middle reliever Marc Rzepczynski $5.5 million — a tick above the average annual salary given to a free-agent reliever this offseason, $5.3 million.
 

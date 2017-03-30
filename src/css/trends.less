@@ -10,6 +10,10 @@
   padding: 20px 0;
   margin: 20px 0;
 
+  h1 {
+    font-size: 22px;
+  }
+
   .key {
     margin: 0;
     list-style-type: none;
@@ -108,4 +112,40 @@
   .cell.bars {
     .flex(1 1 0%);
   }
+}
+
+.side-by-side {
+
+  h1 {
+    margin-top: 0;
+  }
+
+  .row {
+    .display-flex();
+    .justify-content(center);
+
+    @media @mobile {
+      display: block;
+    }
+  }
+
+  .text {
+    .flex-order(2);
+    .flex(0 1 300px);
+    padding: 0 10px;
+  }
+
+  .image {
+    text-align: center;
+  }
+
+  .attribution {
+    padding: 16px;
+    overflow: hidden;
+
+    .credit {
+      float: right;
+    }
+  }
+
 }
