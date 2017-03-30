@@ -1,3 +1,5 @@
+@header-delay: 1s;
+
 @keyframes photo-toss {
   from {
     transform: translateX(-40px) translateY(200%) rotate(290deg) scale(1.3);
@@ -73,9 +75,9 @@ header.pitch.impact.splash {
     opacity: 1;
     will-change: opacity, transform;
     animation:
-      ball-zoom .4s cubic-bezier(1,.02,.96,.01) 1s both,
-      appear .1s linear 1s backwards,
-      disappear .1s linear 1.4s forwards;
+      ball-zoom .4s cubic-bezier(1,.02,.96,.01) (@header-delay + 1s) both,
+      appear .1s linear (@header-delay + 1s) backwards,
+      disappear .1s linear (@header-delay + 1.4s) forwards;
   }
 
   .headline-container {
@@ -90,7 +92,7 @@ header.pitch.impact.splash {
     .justify-content(center);
     .flex-direction(column);
     .align-items(center);
-    animation: open-vertical .25s linear 2.5s both;
+    animation: open-vertical .25s linear (@header-delay + 2.5s) both;
     box-shadow: 0 16px 16px 0px fade(black, 20%);
     font-style: italic;
 
@@ -106,7 +108,7 @@ header.pitch.impact.splash {
       font-size: 48px;
       margin: 0;
       text-transform: uppercase;
-      animation: slide-in .5s ease-in-out 2.5s both;
+      animation: slide-in .5s ease-in-out (@header-delay + 2.5s) both;
       padding: 0;
 
       @media @mobile {
@@ -117,7 +119,7 @@ header.pitch.impact.splash {
     h2 {
       margin: 0;
       text-align: center;
-      animation: slide-in .5s ease-in-out 2.75s both;
+      animation: slide-in .5s ease-in-out (@header-delay + 2.75s) both;
 
       @media @mobile {
         font-size: 32px;
@@ -135,7 +137,7 @@ header.pitch.impact.splash {
     height: 100%;
     opacity: 0;
     animation:
-      blink .2s ease-in-out 1.4s none;
+      blink .2s ease-in-out (@header-delay + 1.4s) none;
     transform: translateZ(0);
   }
 }

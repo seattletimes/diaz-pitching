@@ -16,7 +16,7 @@
       <ul class="dropdown">
         <% for (var k in grunt.data.json.navigation) { var p = grunt.data.json.navigation[k]; %>
         <li class="<%= k == current ? "here" : "elsewhere" %>">
-            <a href="../<%= k %>/"><%= p.title %></a>
+            <a href="../<%= k %>/"><%= p.short %></a>
         <% } %>
       </ul>
 
