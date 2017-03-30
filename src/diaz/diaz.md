@@ -12,11 +12,11 @@ Diaz nodded as if to say, “I got more of that.” And he did. On the second pi
 
 <? <%= t.include("_inlineNav.html", { page: "diaz" }) %> ?>
 
-Then things got interesting. Diaz’s third pitch was another fastball at 99 mph. It ran up and in under Balentien’s chin. Was it a purpose pitch perhaps reminiscent of his childhood hero Pedro Martinez, whom he got advice from and exchanged phone numbers with earlier that day?
+Then things got interesting. Diaz’s third pitch was another fastball at 99 mph. It ran up and in under Balentien’s chin. Was it a purpose pitch, perhaps reminiscent of his childhood hero Pedro Martinez, whom he got advice from and exchanged phone numbers with earlier that day?
 
 “It wasn’t a purpose pitch,” he said. “(Molina) called fastball away. But I tried to throw the hardest I can.”
 
-Regardless of intent, Balentien was unhappy, screaming at Diaz from the box and pointing at his head. Players from both benches started to spill on the field and jawing from both sides escalated but nothing more followed. Umpire Lance Barksdale issued warnings to each team. Through all the chesty histrionics, Diaz’s expression remained unchanged. He wasn’t afraid or intimidated by Balentien. 
+Regardless of intent, Balentien was unhappy, screaming at Diaz from the box and pointing at his head. Players from both benches started to spill onto the field and jawing from both sides escalated but nothing more followed. Umpire Lance Barksdale issued warnings to each team. Through all the chesty histrionics, Diaz’s expression remained unchanged. He wasn’t afraid or intimidated by Balentien. 
 
 “I was relaxed,” he said with a smirk.
 
@@ -24,9 +24,9 @@ So what would Diaz do on the 1-2 pitch?
 
 *Fastball or slider?*
 
-From Puerto Rico’s bullpen, reliever Emilio Pagan, a teammate of Diaz for the previous four seasons in the Mariners’ minor league system, had his own thoughts.
+From Puerto Rico’s bullpen, reliever Emilio Pagan, a teammate of Diaz for the previous four seasons in the Mariners’ minor-league system, had his own thoughts.
 
-“I don’t know what the plan was, but I was in the bullpen screaming, stay with the fastball,” Pagan said. “For me, when Balentien was kind of staring him down, I was like: ‘all right, you’ve had a good game, but those were foul balls and Diaz is a different monster.’ I wanted him to stay with the fastball.”
+“I don’t know what the plan was, but I was in the bullpen screaming, stay with the fastball,” Pagan said. “For me, when Balentien was kind of staring him down, I was like: ‘All right, you’ve had a good game, but those were foul balls and Diaz is a different monster.’ I wanted him to stay with the fastball.”
 
 In his condo in Arizona, Steve Cishek, who lost his closer’s job to Diaz, watched his teammate on television with anxiety. He’d pitched in the WBC in 2013 and could almost feel that tension again.
 
@@ -39,7 +39,7 @@ Diaz rocked back a fired a fantastic running fastball at 99 mph that painted the
   <img src="../assets/wbc-diaz.jpg">
   <div class="credit">Gregory Bull / The Associated Press</div>
   <p class="caption">
-    Puerto Rico pitcher Edwin Diaz reacts after getting the last out to defeat the Dominican Republic in a second-round World Baseball Classic game Tuesday, March 14, 2017, in San Diego. Puerto Rico won, 3-1.
+    Puerto Rico pitcher Edwin Diaz reacts after getting the last out to defeat the Dominican Republic in a second-round World Baseball Classic game in San Diego. Puerto Rico won, 3-1.
     </p>
 </div>
 <main class="article-content">
@@ -48,7 +48,7 @@ The thought of throwing anything else but the fastball never entered his mind.
 
 “I was going with the fastball,” Diaz said. “He had the two foul balls and he kept looking at me. And I said in my mind, ‘I’m going to strike him out with my fastball.’”
 
-Back in Arizona, general manager Jerry Dipoto watched intently. Even in the short amount of time he’d gotten to know his young closer, he had his expectations.
+Back in Arizona, general manager Jerry Dipoto watched intently. Even from the short amount of time he’d gotten to know his young closer, he had his expectations.
 
 <div class="mlb-container">
 <iframe src='http://m.mlb.com/shared/video/embed/embed.html?content_id=1244001883&topic_id=6479266&width=400&height=224&property=mlb' width='400' height='224' frameborder='0'>Your browser does not support iframes.</iframe>
@@ -56,7 +56,7 @@ Back in Arizona, general manager Jerry Dipoto watched intently. Even in the shor
 
 “Exactly what he did,” Dipoto said. “I knew he would, because we have a feel for Edwin. He painted a 98-mph fastball down and away. And that’s Edwin. He’s got confidence in himself. He knows who he is. His fastball is just as hard to hit as his slider is, if not more so.”
 
-Diaz closed out the inning with another strikeout and then pitched out of the 12th inning with a key double play. Puerto Rico would lose to the U.S. in the championship and Diaz wouldn’t throw a pitch in the game. Still, he had produced one of the signature moments of the WBC.
+Diaz closed out the inning with another strikeout and then pitched out of the 11th inning with a key double play. Puerto Rico would lose to the U.S. in the championship and Diaz wouldn’t throw a pitch in the game. Still, he had produced one of the signature moments of the WBC.
 
 It was yet another reminder of how far he’d come so quickly. A year ago, he was one of a hundred pitchers getting his daily work in on the sun-baked backfields of the Mariners complex in Peoria.
 
@@ -117,10 +117,9 @@ The son reciprocated on the gifts of his youth by taking his father through the 
 
 The lessons instilled in Diaz by his father became apparent as teams started to scout him as a high schooler. Playing on the same travel team as phenom and future No. 1 overall pick Carlos Correa, Diaz made sure he didn’t languish in his friend’s shadow.
 
-“Correa was obviously a top guy,” said Tom McNamara, who was the Mariner director of amateur scouting at the time. “But Edwin — whenever there were 50-60 guys there, he wasn’t afraid. His body language was like: ‘This is what I want to do. I’m ready to do this. There’s no going to be no doubt that I’m going to give it everything I have.’”
+“Correa was obviously a top guy,” said Tom McNamara, who was the Mariner director of amateur scouting at the time. “But Edwin — whenever there were 50-60 guys there, he wasn’t afraid. His body language was like: ‘This is what I want to do. I’m ready to do this. There’s going to be no doubt that I’m going to give it everything I have.’”
 
-Some kids fold under the gazing eyes of baseball scouts, often middle-aged men armed with radar guns. Diaz embraced their presence and used them as fuel to his 
-ormance.
+Some kids fold under the gazing eyes of baseball scouts, often middle-aged men armed with radar guns. Diaz embraced their presence and used them as fuel to his performance.
 
 “I wasn’t afraid of them,” he said. “I needed to show them my stuff. I needed to show them I could pitch. They liked me and that’s why I’m here.”
 
@@ -130,7 +129,7 @@ He acknowledged the scouts and interacted with them in total ease. He was quick 
 
 He was all personality.
 
-“After doing this for a while, sometimes you look back at some of the high school guys and what was it about them that got you excited about not only writing the report but going back and seeing them again. Was there enthusiasm?” McNamara said. “Diaz always had that enthusiasm for the game. It sounds corny. But he loved the game at an early age. And you never worried about him being on Field 7 in Arizona in late August hating it. He was loving it.”
+“After doing this for a while, sometimes you look back at some of the high school guys and what was it about them that got you excited about not only writing the report but going back and seeing them again? Was there enthusiasm?” McNamara said. “Diaz always had that enthusiasm for the game. It sounds corny. But he loved the game at an early age. And you never worried about him being on Field 7 in Arizona in late August hating it. He was loving it.”
 
 But attitude only gets you so far. Talent is the separator and Diaz had it. While everyone eyed Correa, the Mariners also watched Diaz in an array of situations.
 
@@ -138,7 +137,7 @@ But attitude only gets you so far. Talent is the separator and Diaz had it. Whil
 
 They selected Diaz in the third round of the 2012 draft with the 98th overall pick.
 
-“We were excited when took him,” McNamara said. “We knew the kid was ready to go.”
+“We were excited when we took him,” McNamara said. “We knew the kid was ready to go.”
 
 </main>
 <div class="section photo">
@@ -150,7 +149,7 @@ They selected Diaz in the third round of the 2012 draft with the 98th overall pi
 
 ## The conversion
 
-The actual decision to convert Diaz to reliever didn’t happen all at once. It was process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May  2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in San Diego.
+The decision to convert Diaz to reliever didn’t happen all at once. It was a process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May 2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in San Diego.
 
 Diaz’s name had come up in trade talks. Dipoto had never seen Diaz pitch much in person, having taken over as general manager just months before. He knew the right-hander’s resume — Mariners’ minor league pitcher of the year in 2015 after going 7-10 with a 3.82 ERA combined between Class A and Class AA. In an organization thin with high-level prospects, Diaz was their best pitching prospect.
 
@@ -165,7 +164,7 @@ This kind of debate isn’t uncommon for teams. There was discussion, a breakdow
 
 “This went on for three hours,” Dipoto said. 
 
-In the end, no consensus was made. Diaz would remain a starter and report to minor league camp and start the season as a starter in Class AA Jackson.
+In the end, no consensus was made. Diaz would remain a starter and report to minor-league camp and start the season as a starter in Class AA Jackson.
 
 “We also determined there was too much value in him, whatever his role was going to be, to include him in a trade,” Dipoto said.
 
@@ -184,7 +183,7 @@ Thoughts of converting Diaz to a reliever returned a few months later when he re
 
 ## The progression
 
-Diaz made five starts with Class AA Jackson with decent success, posting a 2-3 record with a 3.00 ERA, striking out 35 batters and walking just five in 271/3 innings pitched. But after throwing two innings in his sixth start, he was pulled from the game without warning. After the game, Daren Brown, explained to Diaz the organization’s decision to convert him to reliever
+Diaz made five starts with Class AA Jackson with decent success, posting a 2-3 record with a 3.00 ERA, striking out 35 batters and walking just five in 27 1/3 innings pitched. But after throwing two innings in his sixth start, he was pulled from the game without warning. After the game, Daren Brown, explained to Diaz the organization’s decision to convert him to reliever.
 
 “They sat down with him, and they walked him through it,” Dipoto said. “We told him: ‘This will be the quickest route for you to get to the big leagues. We feel like it is your highest potential for impact in the big leagues.’”
 
@@ -192,9 +191,9 @@ Diaz was stunned.
 
 “I didn’t know what to think,” he said. “I’d always been a starter, but I knew I wanted to get to the big leagues.”
 
-While Dipoto believed it was the right move, he also allowed for the possibility to be wrong.
+While Dipoto believed it was the right move, he also allowed for the possibility of being wrong.
 
-“We spoke to his agent at length about the move as we were transitioning him,” Dipoto said. “And the one thing we promised ourselves and the promise we made to Edwin, was that we would only switch one time. That we were going to send him to the bullpen and we was going to pitch the rest of the season as a reliever. And we were going to see where this took us. And if at the end of the year it was not positive experience, or he didn’t enjoy it, or it wasn’t as big an impact as we thought it could, we would transition him back to a starter, and we would restart his development. No harm, no foul, at 22.”
+“We spoke to his agent at length about the move as we were transitioning him,” Dipoto said. “And the one thing we promised ourselves and the promise we made to Edwin, was that we would only switch one time. That we were going to send him to the bullpen and he was going to pitch the rest of the season as a reliever. And we were going to see where this took us. And if at the end of the year it was not a positive experience, or he didn’t enjoy it, or it wasn’t as big an impact as we thought it could be, we would transition him back to a starter, and we would restart his development. No harm, no foul, at 22.”
 
 Six days later at Regions Field in Birmingham, Ala., Diaz the reliever entered the game in the eighth inning. It was a 13-pitch awakening.
 
@@ -210,7 +209,7 @@ Marcus Littlewood had been catching Diaz for the last few seasons. He couldn’t
 
 “It was like his whole mentality changed,” Littlewood said. “He knew he was going to throw just one inning so he was going all out. His stuff was just electric.”
 
-There was no reason to save anything. Diaz  touched 101 mph that night.
+There was no reason to save anything. Diaz touched 101 mph that night.
 
 “The movement, it’s almost like a guy throwing 90 mph sinkers, but it’s 100,” Littlewood said. “It’s tough to catch. I can’t imagine trying to hit it.”
 
@@ -222,7 +221,7 @@ Diaz scrapped his changeup and stayed fastball and slider. The moment he knew th
 
 “We just kind of knew right there, he was on the fast track to the big leagues,” Dan Altavilla said.
 
-That track was even faster than the Mariners expected. With a bullpen lacking a power arm and in desperate need of some help, the Mariners called him up on June 4 from Jackson, skipping the Class AAA level. He had made 10 appearances, allowing one unearned run 112/3 innings with 15 strikeouts and two walks.
+That track was even faster than the Mariners expected. With a bullpen lacking a power arm and in desperate need of some help, the Mariners called him up on June 4 from Jackson, skipping the Class AAA level. He had made 10 appearances, allowing one unearned run 11 2/3 innings with 15 strikeouts and two walks.
 
 Diaz arrived at Globe Life Park in Texas and wandered around lost. He asked a man if he could help him find where the visitors’ clubhouse was. That man was Dipoto.
 
@@ -256,14 +255,6 @@ There was no choice. Diaz knew Naquin would be prepared for it. To Diaz, it was 
 
 Sound familiar?
 
-Kyle Seager stood at third base watching it all unfold.
-
-“I don’t remember ever seeing him throw before that, but you certainly remembered afterward,” he said.
-
-Cishek and the rest of the bullpen watched intently.
-
-“You are thinking, ‘OK kid, just try and throw strikes,’” he said. “And then all of the sudden he’s throwing 100 mph, blowing the doors off everyone and painting with that fastball. And you are like: ‘Holy cow, what is going on? This is crazy.’”
-
 Diaz worked a scoreless inning and left to a standing ovation from the crowd of just over 15,000 in attendance.
 
 “After that first game, (manager Scott Servais) looked at me, he goes, ‘You know, it’s a matter of weeks until this guy’s closing,’” Dipoto said, “because it had that kind of feel to it.”
@@ -273,7 +264,7 @@ Diaz worked a scoreless inning and left to a standing ovation from the crowd of 
 <div class="section photo">
   <img src="../assets/157701_mari191472.jpg">
   <div class="credit">Photos by Ken Lambert / The Seattle Times</div>
-  <div class="caption">Mariners closer Edwin Diaz pumps his arms to celebrate a game-sealing save over the Tigers on Monday, Aug. 8, 2016, at Safeco Field.</div>
+  <div class="caption">Mariners closer Edwin Diaz pumps his arms to celebrate a game-sealing save over the Tigers on Aug. 8, 2016 at Safeco Field.</div>
 </div>
 
 <main class="article-content">
@@ -284,13 +275,13 @@ Hours before the Mariners would face the Red Sox at Safeco Field on August 1, Se
 
 “He’s thrown the ball great,” Servais said that day. “That’s obviously the logical choice. He’s ready for it. There’s no doubt.”
 
-That night Diaz was called on to protect a 5-4 lead in an environment that didn’t quite feel like a home game with Safeco being overrun by Red Sox fans. He struck out Jackie Bradley Jr., walked Travis Shaw and struck out Sandy Leon and Andrew Benintendi.
+That night, Diaz was called on to protect a 5-4 lead in an environment that didn’t quite feel like a home game with Safeco being overrun by Red Sox fans. He struck out Jackie Bradley Jr., walked Travis Shaw and struck out Sandy Leon and Andrew Benintendi.
 
-From there, Diaz would finish with 18 saves with the Mariners. He wasn’t always perfect. He gave up walk-off homer to Rougned Odor in Texas on Aug. 30 trying for a six-out save for the first time at the MLB level. He blew two more and walked the tight rope in others as fatigue set in. But it was in those moments that Dipoto know his decision was right all along.
+From there, Diaz would finish with 18 saves with the Mariners. He wasn’t always perfect. He gave up walk-off homer to Rougned Odor in Texas on Aug. 30 trying for a six-out save for the first time at the MLB level. He blew two more and walked the tight rope in others as fatigue set in. But it was in those moments that Dipoto know his decision was right.
 
 “My favorite times were watching how he handled the adversity later in the season when he tired, and he blew a couple,” Dipoto said. “It wasn’t as easy for him, and his reaction. I closed as a rookie, and I didn’t do it a third as well as Edwin does it. But you learn very quickly how to mature and how resilient you are.”
 
-Besides the 18 saves, Diaz posted ridiculous strikeout numbers. He punched out 88 batters in 512/3 innings for a 15.33 strikeout per nine innings. He struck two or more batters in 29 of his 49 appearances.
+Besides the 18 saves, Diaz posted ridiculous strikeout numbers. He punched out 88 batters in 51 2/3 innings for a rate of 15.33 strikeouts per nine innings. He struck two or more batters in 29 of his 49 appearances.
 
 “Edwin is the exception to many rules,” Dipoto said. “The guy who goes from AA starter to big league closer in a month. The guy who frankly came into camp last year, and wasn’t on anybody’s radar other than, this guy’s got an interesting arm. He is an exception to the rule of the young pitcher who comes to the big leagues and seems unaffected by the drama, the significance of the role he’s playing on a team.”
 
