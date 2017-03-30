@@ -1,31 +1,45 @@
-<div class="visualization vertical graph teams">
+<div class="visualization vertical graph teams side-by-side">
 
-  <h1>Few teams emphasize super-fast pitching</h1>
+  <div class="row">
+    <div class="text">
+      <h1>Which teams have the power arms?</h1>
 
-  <p>
-    High-speed pitching is still concentrated in only a few teams in the MLB, with the Braves, the Yankees, and the Cubs making up the vast majority of pitches over 100 mph thrown in 2016. 
+      <p>
+        Three teams dominate in the fastball race, with Atlanta, the N.Y. Yankees and the Cubs leading the market on players who throw the most 100 mph (or higher) pitches. Closer Aroldis Chapman, who played for the Cubs and Yankees last year, threw 55.35 percent of his total pitches at at least 100 mph. 
+      <p>
+        The Mariners have four 100 mph pitchers: Edwin Diaz, James Paxton, Dan Altavilla and Arquimedes Caminero.
+      <p>
+        Chapman makes more money than any other reliever in history: an average of $17.2 million per season under his contract that runs through 2021.
 
-  <%
-  var max = Math.max.apply(null, json.team_stats.map(t => t.pitches));
-  var teams = json.team_stats.filter(t => t.pitches);
-  %>
-  <div class="graph">
-    <% teams.forEach(function(row) { %>
-    <div class="row <%= row.team == "Seattle Mariners" ? "home" : "away" %>">
-      <div class="label cell team">
-        <%= row.team %>
-      </div>
-      <!-- <div class="label cell stats">
-        <%= row.players %> <%= row.players != 1 ? "pitchers" : "pitcher" %>,
-        bullpen is <%= row.bullpen_payroll %>% of payroll
-      </div> -->
-      <div class="bars cell">
-        <div class="bar" style="width: <%= (row.pitches / max * 90).toFixed(2) %>%">
-          <div class="bar-label"><%= row.pitches %></div>
+      <%
+      var max = Math.max.apply(null, json.team_stats.map(t => t.pitches));
+      var teams = json.team_stats.filter(t => t.pitches);
+      %>
+      <div class="graph">
+        <% teams.forEach(function(row) { %>
+        <div class="row <%= row.team == "Seattle Mariners" ? "home" : "away" %>">
+          <div class="label cell team">
+            <%= row.team %>
+          </div>
+          <!-- <div class="label cell stats">
+            <%= row.players %> <%= row.players != 1 ? "pitchers" : "pitcher" %>,
+            bullpen is <%= row.bullpen_payroll %>% of payroll
+          </div> -->
+          <div class="bars cell">
+            <div class="bar" style="width: <%= (row.pitches / max * 80).toFixed(2) %>%">
+              <div class="bar-label"><%= row.pitches %></div>
+            </div>
+          </div>
         </div>
+        <% }) %>
       </div>
     </div>
-    <% }) %>
-  </div>
 
+    <div class="image">
+      <img src="../assets/WEB-Diaz-graphic2.jpg">
+    </div>
+  </div>
+  <div class="attribution">
+    <div class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
+  </div>
 </div>

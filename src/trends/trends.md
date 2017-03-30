@@ -17,15 +17,21 @@ The 1,379 pitches was a 53.7 percent increase over 2015 and nearly 1,000 more th
 
 What in 2008 was a group of eight led by Joel Zumaya had swelled to 34 pitchers to hit 100 mph in 2015 and 31 in 2016 — including four Mariners, more than any other team.
 
-<?<%= t.include("trends/_top_10_pitchers.html") %>?>
+<div class="visualization sidebar">
+  <img src="../assets/WEB-Diaz-graphic3.jpg">
+  <div class="attribution">
+    <div class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
+    <div class="source">Source: baseballsavant.mlb.com</div>
+  </div>
+</div>
 
 “It seems like everyone out of the pen these days is throwing in the high 90s. The game’s definitely evolving,” Mariners infielder Danny Valencia said. “Guys are getting bigger, faster, stronger. I think the games obviously changing and with nutrition, exercise and modern medicine, it seems like guys are becoming way more athletic and are able to do more impressive stuff. It’s definitely more challenging as a hitter to hit those guys.”
 
 It took all of 13 Class AAA starts in 2010 of Chapman showcasing his record-breaking fastball but little else for the Reds to cut the string and allow his two-pitch repertoire to begin dominating out of the big league bullpen. Six years later, Diaz entered the eighth inning of  Class AA Jackson’s game and the next day general manager Jerry Dipoto announced the Mariners were doing the same.
 
-“We felt like as a starter he’s mostly 90-94 mph with a good slider,” Dipoto said at the time. “What happens when we dump him into a bullpen? Do we have a chance to get that back-end dynamic arm? And does that supersede the ceiling that he would have as a starter?”
-
 <? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
+
+“We felt like as a starter he’s mostly 90-94 mph with a good slider,” Dipoto said at the time. “What happens when we dump him into a bullpen? Do we have a chance to get that back-end dynamic arm? And does that supersede the ceiling that he would have as a starter?”
 
 Diaz’s early success was quantifiable, no matter your bent. His stat line included an average of nearly two punchouts an inning (15.33 K/9), a 2.79 ERA and an even lower FIP, 2.04. It took him only 51⅔ innings to accumulate 1.9 fWAR. Perhaps more impressive was his ability to blow his tailing four-seamer past batters and intermix a sweeping slider.
 
@@ -49,27 +55,6 @@ Diaz’s early success was quantifiable, no matter your bent. His stat line incl
 When the Reds converted Chapman, then-GM Walt Jocketty’s intentions were for it only to be temporary. Dipoto has shown no indication of considering moving Diaz, his slender frame and fastball-slider combo back into the rotation.
 
 Despite the Reds returning each of the next two spring trainings to the infatuation of starting pitcher Aroldis Chapman, he inked a five-year, $86 million contract with the Yankees this offseason having never started a major league game. It was the largest contract ever given to a reliever, followed only by Kenley Jansen and Mark Melancon’s deals, all completed in the first two weeks of December 2016. 
-
-<div class="visualization side-by-side">
-  <div class="row">
-    <div class="text">
-      <h1>Which teams have the power arms?</h1>
-      <p>
-        Three teams dominate in the fastball race, with Atlanta, the N.Y. Yankees and the Cubs leading the market on players who throw the most 100 mph (or higher) pitches. Closer Aroldis Chapman (pictured), who played for the Cubs and Yankees last year, threw 55.35 percent of his total pitches at at least 100 mph. 
-      <p>
-        The Mariners have four 100 mph pitchers: Edwin Diaz, James Paxton, Dan Altavilla and Arquimedes Caminero.
-      <p>
-        Chapman makes more money than any other reliever in history: an average of $17.2 million per season under his contract that runs through 2021.
-    </div>
-    <div class="image">
-      <img src="../assets/WEB-Diaz-graphic3.jpg">
-    </div>
-  </div>
-  <div class="attribution">
-    <div class="credit">EMILY M. ENG / THE SEATTLE TIMES</div>
-    <div class="source">Source: baseballsavant.mlb.com</div>
-  </div>
-</div>
 
 Teams are spending more than they ever have on their bullpens, up 18.8 percent and nearly $100 million league-wide from 2016. Just to complete their bullpen, the Mariners handed 31-year-old middle reliever Marc Rzepczynski $5.5 million — a tick above the average annual salary given to a free-agent reliever this offseason, $5.3 million.
 
