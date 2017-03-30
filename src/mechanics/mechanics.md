@@ -2,18 +2,7 @@ The first should not be forgotten.
 
 Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on June 6. No one was quite sure what to expect from the young right-hander who looked to be all legs and arms and missing a backside on his 6-foot-3, 165-pound frame.  
 
-</main>
-<div class="photo">
-  <img src="../assets/page2_diaz_first_game.jpg">
-  <div class="credit">Ted S. Warren / The Associated Press</div>
-  <p class="caption">
-    Fans cheer for Seattle Mariners relief pitcher Edwin Diaz during his major league debut on June 6, 2016.</p>
-</div>
-<main class="article-content">
-
 Diaz had been called up two days earlier and manager Scott Servais waited for the right time to bring him in for a “soft landing” in his debut. With the Mariners trailing 3-1 and getting shut down by Cleveland starter Trevor Bauer, Diaz entered the game in the bottom of the seventh in relief of James Paxton to not led the lead grow.
-
-
 
 After getting the first batter, Chris Gimenez, to gound out to third base, Diaz exhaled as he circled the mound. Now he could relax. And what came next was special. 
 
