@@ -328,3 +328,21 @@ blockquote {
   float: right;
   margin: 10px;
 }
+
+.video-container {
+  position: relative;
+
+  &::before {
+    display: block;
+    content: "";
+    padding-bottom: percentage(9 / 16);
+  }
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
