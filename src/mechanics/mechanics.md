@@ -7,7 +7,7 @@ Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on J
   <img src="../assets/page2_diaz_first_game.jpg">
   <div class="credit">Ted S. Warren / The Associated Press</div>
   <p class="caption">
-    Fans cheer for Seattle Mariners relief pitcher Edwin Diaz during a baseball game against the Cleveland Indians, Monday, June 6, 2016, in Seattle.</p>
+    Fans cheer for Seattle Mariners relief pitcher Edwin Diaz during his major league debut on June 6, 2016.</p>
 </div>
 <main class="article-content">
 
@@ -19,7 +19,7 @@ After getting the first batter, Chris Gimenez, to gound out to third base, Diaz 
 
 His first pitch to the next hitter — Tyler Naquin — was a 99 mph fastball on the bottom part of the zone for a strike. It was an almost unhittable first pitch. 
 
-Feeling the adrenaline surge, Diaz went back to his heater —  again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
+Feeling the adrenaline surge, Diaz went back to his heater — again at 99 mph — this time painted on the inside corner for strike two. Naquin could only shake his head.
 
 It was the third pitch of the at-bat where Diaz inserted himself into the Mariners’ fans hearts. And it was the third pitch where it became evident that this kid that was all arms and legs and no backside might be something special. 
 
@@ -43,7 +43,7 @@ That first strikeout with three fastballs — 99 mph, 99 mph and 100 mph — was
 
 "His arm is loose like a whip," Stottlemyre said. "He's got a funky leg kick. ... There's definitely some deception in there. Sometimes when guys have that little bit of funk and they do things the way that they do ... as pitching coaches you're not sure where to go."
 
-But the heat, the deception, the movement -- it all comes naturally to Diaz.
+But the heat, the deception, the movement — it all comes naturally to Diaz.
 
 "We spent very little time talking about his delivery," Stottlemyre said. "For a young guy, he knows where to go."
 
