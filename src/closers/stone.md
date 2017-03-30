@@ -40,9 +40,17 @@ Then came the roller-coaster years, otherwise known, too often, as the hide-your
 
 Which brings us full circle to Diaz, whom the Mariners envision, in his first full season, as the bullpen anchor of the team to end their playoff drought. General manager Jerry Dipoto loved Diaz’s eye-popping stuff last year, naturally. He loved even more how Diaz reacted to one of his first blown saves, when he was the first one in the handshake line after the eventual victory, high-fiving teammates after they survived the game-tying home run he gave up to Toronto’s Jose Bautista. 
 
-<? <%= t.include("partials/_ad.html", { type: "square" }) %> ?>
 
 “If you think the ninth inning is just like the rest of innings, you’re crazy, and you’ve never been out there,’’ said Dipoto, who has 49 saves to his own name. “When you’re standing on the mound in the ninth inning, you’ve got two outs, and you can physically feel the ground under you rumbling because the crowd is stomping their feet or cheering that loudly, it can really get you.
+
+</main>
+<div class="photo">
+  <img src="../assets/oakland-diaz.jpg">
+  <div class="credit">Dean Rutz / The Seattle Times</div>
+  <p class="caption">
+    Mariners manager Scott Servais congratulates Edwin Diaz on earning a save against Oakland in a 2016 game.</p>
+</div>
+<main class="article-content">
 
 “Once the adrenaline starts to flow, and you have to learn how to control it, it changes. Once you have to walk back in that locker room and look at your teammates the day you coughed one up. Because inevitably when you cough one up, whether it was in your control or outside of your control, that’s you. And for 95 percent of the guys who ever really pitched a ninth inning, the only time they’re ever noticed is when they screw it up. 
 
