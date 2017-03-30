@@ -89,7 +89,7 @@ Edwin Sr. would take his lessons learned in basketball and apply them to basebal
 
 “We talked about it even as a little kid, the mental things of the game to get him strong,” Edwin Sr. said. “That the moment won’t impact you and having the mental strength to not be impacted by the moment. I worked with both Edwin and Alexis about the mental strengths of the game.”
 
-<p class="section-bottom">But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.</p>
+But the focus was also on having fun and developing a passion for the game. Not that he had to try with his oldest son.
 
 </main>
 <div class="photo">

@@ -168,18 +168,6 @@ footer {
   }
 }
 
-// inline photo styles
-
-.quote-photo {
-  padding-top: 35px;
-  padding-bottom: 35px;
-
-  @media @mobile {
-    padding-top: 25px;
-    padding-bottom: 25px;
-  }
-}
-
 .pullquote {
   font-family: @df-sans;
   font-size: 24px;
@@ -238,6 +226,10 @@ blockquote {
   margin: auto;
   padding-top: 24px;
 
+  @media @mobile {
+    padding-top: 0px;
+  }
+
   .credit {
     text-align: right;
     font-family: @df-sans;
@@ -258,17 +250,21 @@ blockquote {
     padding-bottom: 24px;
   }
 
-  // &.section {
-  //   padding-top: 50px;
+  &.section {
+    padding-top: 0px;
 
-  //   @media @tablet {
-  //     padding-top: 25px;
-  //   }
+    @media @tablet {
+      padding-top: 0px;
+    }
 
-  //   @media @mobile {
-  //     padding-top: 15px;
-  //   }
-  // }
+    @media @mobile {
+      padding-top: 0px;
+    }
+
+    .caption {
+      padding-bottom: 0px;
+    }
+  }
 }
 
 .side-img{
