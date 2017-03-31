@@ -151,7 +151,7 @@ They selected Diaz in the third round of the 2012 draft with the 98th overall pi
 
 ## The conversion
 
-The decision to convert Diaz to reliever didn’t happen all at once. It was a process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May 2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in San Diego.
+The decision to convert Diaz to reliever didn’t happen all at once. It was a process of thinking, evaluating and re-evaluating. The final call came sometime in mid-May 2016. But the topic was first discussed on Dec. 7, 2015 — the first night of the MLB winter meetings in Nashville.
 
 Diaz’s name had come up in trade talks. Dipoto had never seen Diaz pitch much in person, having taken over as general manager just months before. He knew the right-hander’s resume — Mariners’ minor league pitcher of the year in 2015 after going 7-10 with a 3.82 ERA combined between Class A and Class AA. In an organization thin with high-level prospects, Diaz was their best pitching prospect.
 
