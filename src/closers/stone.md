@@ -2,13 +2,13 @@ Time to push your Mariners hat to the side, slightly askew in the manner of a ce
 
 At least at first. Then we’ll mend your broken heart and send you on your way into 2017 filled with hope, because that’s how every baseball season should start. Call it the first save of the year. 
 
+<? <%= t.include("_inlineNav.html", { page: "closers" }) %> ?>
+
 Let’s reflect, shall we, on the sordid history of Mariners closers. Let’s do it because they finally have one in Edwin Diaz who looks poised to break the cycle of agony. And let’s do it because a little masochism never hurt anybody. 
 
 You could make a case that the evolution of the Mariners can be best told, at least partially, through their late-game relievers. Back in the fledgling days of the expansion organization, when winning wasn’t yet a realistic priority, zany Bill Caudill, the irrepressible “Cuffs,” was the perfect closer. Oh, Caudill had great stuff, but was better known for his zaniness, the jello-filled bathtub pranks and stealing the keys to the tugboat-on-wheels that brought in relievers from the pen.
 
 As the Mariners tried to get serious, the guy at the end of the game was Mike Schooler. Talk about stuff – his was nasty, and he saved 33 games in 1989, and 30 in 1990, healthy totals for that era and practically unheard of for the Mariners. Oh, but the breakdowns – the six walk-off losses in 1988, still a franchise record; the four grand slams allowed in 1992, still tied for an American League record.
-
-<? <%= t.include("_inlineNav.html", { page: "closers" }) %> ?>
 
 In 1991, when the Mariners finally had their first winning record after 15 years of trying, Schooler was hurt and had just seven saves. And when Lou Piniella took over in 1993 and things got serious, Schooler was released in spring training. His departing quote has become the stuff of legend: “All he cares about,’’ Schooler said incredulously of Piniella, “is winning.”
 

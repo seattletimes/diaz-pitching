@@ -4,11 +4,11 @@ Consider baseball’s most basic interaction – the one that takes place 60 fee
 
 The pitcher versus the hitter. 
 
+<?<%= t.include("_inlineNav.html", { page: "science" }) %>?>
+
 It’s a mental chess match. The pitcher gazes in for the sign, scratches at the clay with his foot, searching for the right plan of attack with his grip on the ball. The hitter meets the pitcher’s eyes, a wooden weapon waiting rhythmically on his shoulder.
 
 “There’s something primal about this confrontation between a man with a rock and a man with a stick,” said Jonathan Hock, writer and director of the documentary “Fastball.” 
-
-<?<%= t.include("_inlineNav.html", { page: "science" }) %>?>
 
 These duels are a microcosm of baseball’s intricate structure of snap decisions. So what happens when man with rock harnesses the power to throw a pitch 100 miles per hour?
 

@@ -6,11 +6,11 @@ There was only one choice in the mind of Edwin Diaz. His heart was pounding as a
 
 Diaz stood on the mound and stared down the behemoth that was screaming at him and being restrained by his catcher, Yadier Molina. The sleepy eyelids that hide his chocolate-colored eyes barely blinked. He was simply waiting for Wladimir Balentien to get back in the batter’s box so it would all be over in quick and potentially embarrassing fashion.
 
+<? <%= t.include("_inlineNav.html", { page: "diaz" }) %> ?>
+
 The confrontation started with the first two pitches of the at-bat. Diaz fired a first-pitch fastball at 98 mph that Balentien took a vicious swing at and fouled back. Balentien, who had homered earlier in the game and is a prior home run champion in Japan’s Nippon Professional Baseball league, stared down Diaz from the box, giving him a look acknowledging he just missed the pitch and nodding at the pitcher.
 
 Diaz nodded as if to say, “I got more of that.” And he did. On the second pitch of the at-bat, Diaz fired a 100-mph pitch at Balentien, who again hacked at it angrily, fouling it back. Balentien followed with another stare at Diaz and more head nodding and could be seen saying, “I’m on that.”
-
-<? <%= t.include("_inlineNav.html", { page: "diaz" }) %> ?>
 
 Then things got interesting. Diaz’s third pitch was another fastball at 99 mph. It ran up and in under Balentien’s chin. Was it a purpose pitch, perhaps reminiscent of his childhood hero Pedro Martinez, whom he got advice from and exchanged phone numbers with earlier that day?
 
