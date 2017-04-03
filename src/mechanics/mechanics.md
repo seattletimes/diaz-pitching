@@ -6,7 +6,7 @@ Edwin Diaz emerged from the bullpen of Safeco Field and jogged to the mound on J
 
 Diaz had been called up two days earlier and manager Scott Servais waited for the right time to bring him in for a “soft landing” in his debut. With the Mariners trailing 3-1 and getting shut down by Cleveland starter Trevor Bauer, Diaz entered the game in the bottom of the seventh in relief of James Paxton to not led the lead grow.
 
-After getting the first batter, Chris Gimenez, to gound out to third base, Diaz exhaled as he circled the mound. Now he could relax. And what came next was special. 
+After getting the first batter, Chris Gimenez, to ground out to third base, Diaz exhaled as he circled the mound. Now he could relax. And what came next was special. 
 
 His first pitch to the next hitter &mdash; Tyler Naquin &mdash; was a 99 mph fastball on the bottom part of the zone for a strike. It was an almost unhittable first pitch. 
 
